@@ -1,0 +1,9 @@
+Gemfile.lock
+*json
+node_modules
+_site
+_blog
+.sass-cache
+.jekyll-metadata
+scripts
+www
