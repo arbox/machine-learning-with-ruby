@@ -166,6 +166,12 @@ for Ruby.
 
 ## Books
 
+-  [Kirk, Matthew](https://twitter.com/mjkirk).
+   _Thoughtful Machine Learning: A Test-Driven Approach_
+   O'Reilly, 2014.
+   <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
+         [code](https://github.com/thoughtfulml/examples)]</sup>
+
 ## Community
 
 - [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on)
