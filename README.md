@@ -69,6 +69,8 @@ for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+- [scoruby](https://github.com/asafschers/scoruby) -
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 
 ## Articles, Posts, Talks, and Presentations
 
