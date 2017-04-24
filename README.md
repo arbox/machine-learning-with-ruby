@@ -9,10 +9,12 @@ resources, libraries, information sources about Machine Learning with the [Ruby 
 
 This list comes from our day to day work on ML Applications.
 
-Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
+Our main goal is to promote Ruby as a tool for Machine Learning Tasks. Your help,
 suggestions and contributions are welcome! We kindly ask you to study
 the [Contribution](#contributing) section. Follow us on [Twitter](https://twitter.com/RubyNLP)
 and please spread the word using the `#RubyML` hash tag!
+
+
 
 <!-- nodoc -->
 ## Contents

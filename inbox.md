@@ -137,3 +137,11 @@ Other resources
 * [Support Vector Machines (SVM) in Ruby](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)
 * [Recurrent Neural Networks in Ruby](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)
 * [Five machine learning techniques that you can use in your Ruby apps today](https://www.youtube.com/watch?v=crziu7dk6Vw) [slides](https://speakerdeck.com/stympy/machine-learning-techniques)
+
+* Projects
+  * https://github.com/hexgnu/rmw-svm
+  * https://github.com/hexgnu/wine_clustering
+
+* https://github.com/tomz/libsvm-ruby-swig
+* https://github.com/hexgnu/reem
+* https://github.com/hexgnu/sentiment_analyzer
