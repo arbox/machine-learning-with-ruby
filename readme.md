@@ -27,8 +27,11 @@ and please spread the word using the `#RubyML` hash tag!
 <!-- toc -->
 
 - [Machine Learning Libraries](#machine-learning-libraries)
+- [Data Structures](#data-structures)
+- [External Dependencies](#external-dependencies)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Projects and Code Examples](#projects-and-code-examples)
+- [Heroku buildpacks](#heroku-buildpacks)
 - [Books](#books)
 - [Community](#community)
 - [Needs your Help!](#needs-your-help)
@@ -47,16 +50,19 @@ in pure Ruby or written in other programming languages with appropriate bindings
 for Ruby.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
-  Support Vector Machines with Ruby.
+  Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
+  <sup>[[bundled][bundled]]</sup>
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
-  Decision Tree ID3 Algorithm in pure Ruby
-  <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
+  Decision Tree ID3 Algorithm in pure Ruby.
+  <sup>[[GraphViz][graphviz] |
+        [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
+  <sup>[[GLS][gls]]</sup>
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
@@ -76,8 +82,60 @@ for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+  <sup>[[bundled][bundled]]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
+- [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
+  Recurrent Neural Network library for Ruby.
+- [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
+  k-means clustering in Ruby.
+- [k_means](https://github.com/reddavis/K-Means) -
+  Attempting to build a fast, memory efficient K-Means program.
+- [knn](https://github.com/reddavis/knn) -
+  Simple K Nearest Neighbour Algorithm.
+- [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
+  A neural network, written in Ruby.
+- [liblinear-ruby](https://github.com/kei500/liblinear-ruby) -
+  Ruby interface to LIBLINEAR using SWIG.
+- [PCA](https://github.com/gbuesing/pca) -
+  Principal component analysis (PCA) in Ruby.
+- [phashion](https://github.com/westonplatter/phashion) -
+  Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+  <sup>[[ImageMagick][] | [libjpeg][]]</sup>
+- [Cerebrum](https://github.com/irfansharif/cerebrum) -
+  Artificial Neural Networks in Ruby.
+- [flann](https://github.com/mariusmuja/flann) -
+  Fast Library for Approximate Nearest Neighbors.
+  <sup>[[flann][]]</sup>
+- [ai4r](https://github.com/SergioFierens/ai4r) -
+  Artificial Intelligence for Ruby.
+
+## Data Structures
+
+- [narray](https://github.com/masa16/narray) -
+ Ruby/NArray: N-dimensional Numerical Array for Ruby.
+- [NMatrix](https://github.com/sciruby/nmatrix) -
+  Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
+- [kdtree](https://github.com/gurgeous/kdtree) -
+  Blazingly fast, native, 2d kdtree.
+
+
+## External Dependencies
+* [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
+```brew install gsl```
+* [OpenCV](http://opencv.org/)
+```brew tap homebrew/science && brew install opencv```
+* [Graphviz](http://www.graphviz.org/)
+```brew install graphviz```
+* [Gnuplot](http://www.gnuplot.info/)
+```brew install gnuplot --with-x11```
+* [X11/XQuartz](http://xquartz.macosforge.org/landing/)
+* [ImageMagick](http://www.imagemagick.org/) && libjpeg
+```brew install imagemagick && brew install libjpeg```
+* [R](http://www.r-project.org/)
+```brew tap homebrew/science && brew install r```
+* [Octave](https://www.gnu.org/software/octave/)
+```brew tap homebrew/science && brew install octave --without-docs```
 
 ## Articles, Posts, Talks, and Presentations
 
@@ -104,12 +162,16 @@ for Ruby.
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 - 2014
-
+  - _Five machine learning techniques that you can use in your Ruby apps today_ by [Benjamin Curtis](https://twitter.com/stympy)
+  <sup>[[video](https://www.youtube.com/watch?v=crziu7dk6Vw) |
+        [slides](https://speakerdeck.com/stympy/machine-learning-techniques)]</sup>
 - 2013
 
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
+  - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
+    <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
@@ -134,6 +196,14 @@ for Ruby.
 - [Words Counted](http://rubywordcount.com/) -
   examples of customizable word statistics powered by
   [words_counted](https://github.com/abitdodgy/words_counted).
+- https://github.com/hexgnu/rmw-svm
+- https://github.com/hexgnu/wine_clustering
+
+## Heroku buildpacks
+
+* [GSL and Ruby buildpack](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
+* [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
+* [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
 ## Books
 
@@ -157,6 +227,7 @@ on the code here.
 
 ## Related Resources
 
+- [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
