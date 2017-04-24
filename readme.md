@@ -4,6 +4,8 @@
 
 > Useful resources for machine learning in [Ruby][ruby]
 
+[[RubyNLP](https://github.com/arbox/nlp-with-ruby) | [RubyDataScience](https://github.com/arbox/data-science-with-ruby) | [RubyInterop](https://github.com/arbox/ruby-interoperability) ]
+
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about Machine Learning with the [Ruby programming language][ruby].
 
@@ -18,7 +20,7 @@ and please spread the word using the `#RubyML` hash tag!
 
 
 
-<!-- nodoc -->
+    <!-- nodoc -->
 ## Contents
 
 <!-- toc -->
