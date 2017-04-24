@@ -5,7 +5,7 @@ CLEAN.include '*.json'
 namespace :test do
   task :links2 do
     require 'awesome_bot'
-    content = File.read('README.md')
+    content = File.read('readme.md')
     result = AwesomeBot.check(content)
     puts result.success(nil) ? ':)' : ':('
   end
@@ -19,7 +19,7 @@ end
 
 desc 'Regenerate the TOC.'
 task :toc do
-  `node_modules/markdown-toc/cli.js -i README.md`
+  `node_modules/markdown-toc/cli.js -i readme.md`
 end
 
 desc 'Create the www sources.'
