@@ -84,13 +84,9 @@ for Ruby.
     [video](https://ftp.fau.de/fosdem/2017/K.4.201/ruby_scientific_computing_on_jruby.mp4) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
-  - _Unicode Normalization in Ruby_ by [Starr Horne](https://twitter.com/starrhorne)
-    <sup>[[post](http://blog.honeybadger.io/ruby_unicode_normalization/)]</sup>
 - 2016
   - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
-  - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
-    <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
   - _Deep Learning: An Introduction for Ruby Developers_ by [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
   - _How I made a pure-Ruby word2vec program more than 3x faster_ by [Kei Sawada](https://twitter.com/remore)
@@ -98,64 +94,30 @@ for Ruby.
   - _Dōmo arigatō, Mr. Roboto: Machine Learning with Ruby_ by [Eric Weinstein](https://twitter.com/ericqweinstein)
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) | [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
 - 2015
-  - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
-    <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web-beta.archive.org/web/20160515115739/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
-  - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
-    <sup>[[slides](https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
-  - _Practical Data Science in Ruby_ by Bobby Grayson
-    <sup>[[slides](http://slides.com/bobbygrayson/p#/)]</sup>
 - 2014
-  - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
-    <sup>[[tutorial](http://glaucocustodio.github.io/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
-  - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by
-    [Todd Schneider](https://github.com/toddwschneider)
-    <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
-  - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
-    <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU) |
-    [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
-    [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
+
 - 2013
-  - _How to parse 'go' - Natural Language Processing in Ruby_ by
-    [Tom Cartwright](https://twitter.com/tomcartwrightuk)
-    <sup>[[slides](https://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby) |
-    [video](https://skillsmatter.com/skillscasts/4883-how-to-parse-go)]</sup>
-  - _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
-    <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
-    [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
-  - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-    <sup>[[tutorial](https://www.sitepoint.com/natural-language-processing-ruby-n-grams/) |
-    [code](https://github.com/nathankleyn/ruby_nlp)]</sup>
-  - _Seeking Lovecraft, Part 1: An introduction to NLP and the Treat Gem_ by
-    [Robert Qualls](https://github.com/rlqualls)
-    <sup>[[tutorial](https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/)]</sup>
+
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
 - 2011
-  - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
-    <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
 - 2009
-  - _Porting the UEA-Lite Stemmer to Ruby_ by [Jason Adams](https://twitter.com/ealdent)
-    <sup>[[post](https://ealdent.wordpress.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/)]</sup>
-  - _NLP Resources for Ruby_ by [Jason Adams](https://twitter.com/ealdent)
-    <sup>[[post](https://ealdent.wordpress.com/2009/09/13/nlp-resources-for-ruby/)]</sup>
+
 - 2008
   - _Support Vector Machines (SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
-  - _Practical text classification with Ruby_ by [Gleicon Moraes](https://twitter.com/gleicon)
-    <sup>[[post](https://zenmachine.wordpress.com/practical-text-classification-with-ruby/) |
-    [code](https://github.com/gleicon/zenmachine)]</sup>
 - 2007
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
