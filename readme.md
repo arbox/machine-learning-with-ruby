@@ -5,13 +5,15 @@
 > Useful resources for machine learning in [Ruby][ruby]
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-resources, libraries, information sources about Machine Learning with the [Ruby programming language](ruby).
+resources, libraries, information sources about Machine Learning with the [Ruby programming language][ruby].
 
 This list comes from our day to day work on ML Applications.
 
 Our main goal is to promote Ruby as a tool for Machine Learning Tasks. Your help,
 suggestions and contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section. Follow us on [Twitter](https://twitter.com/RubyNLP)
+the [Contribution](#contributing) section.
+
+Follow us on [Twitter](https://twitter.com/RubyNLP)
 and please spread the word using the `#RubyML` hash tag!
 
 
@@ -225,7 +227,8 @@ You may want to start there.
 
 ## License
 
-[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome ML with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
+[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+`Awesome ML with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
 [Contributors](https://github.com/arbox/machine-learning-with-ruby/graphs/contributors).
 
 To the extent possible under law, the person who associated CC0 with
@@ -237,7 +240,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
-[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
-[contributing]: https://github.com/arbox/nlp-with-ruby/blob/master/CONTRIBUTING.md
-[todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
-[faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
+[motivation]: https://github.com/arbox/machine-learning-with-ruby/blob/master/motivation.md
+[contributing]: https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md
+[todo]: https://github.com/arbox/machine-lerning-with-ruby/blob/master/todo.md
+[faq]: https://github.com/arbox/machine-learning-with-ruby/blob/master/FAQ.md
