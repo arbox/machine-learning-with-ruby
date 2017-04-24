@@ -7,7 +7,7 @@ our [motivation](motivation.md) on this curated collection first.
 
 If you have found a library, resource, collection etc, but not used it
 extensively, you can submit a Pull Request to the [Inbox](inbox.md). We'll consider
-your submission and decide if it can be useful in the ML context.
+your submission and decide how it can be useful in the ML context.
 
 ## Adding to the main list
 If you know something pretty cool, it suits the awesome definition, works for you
@@ -20,7 +20,7 @@ Like everybody we have a lot to do. Please help us to maintain this list and it'
 infrastructure. In the [todo](todo.md) file you'll find some ideas how and what
 to change in this list.
 
-## How to add to this list
+## How to add to the main list
 
 Please ensure your pull request adheres to the following guidelines:
 
