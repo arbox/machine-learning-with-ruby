@@ -162,16 +162,18 @@ for Ruby.
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 - 2014
+  - Test Driven Neural Networks by [Matthew Kirk](https://twitter.com/mjkirk)<sup>[[video](https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s)]</sup>
   - _Five machine learning techniques that you can use in your Ruby apps today_ by [Benjamin Curtis](https://twitter.com/stympy)
   <sup>[[video](https://www.youtube.com/watch?v=crziu7dk6Vw) |
         [slides](https://speakerdeck.com/stympy/machine-learning-techniques)]</sup>
 - 2013
-
+  - Sentiment Analysis using Support Vector Machines in Ruby by [Matthew Kirk](https://twitter.com/mjkirk) <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc)]</sup>
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
+  - Recommendation Engines using Machine Learning, and JRuby by [Matthew Kirk](https:twitter.com/mjkirk) <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
