@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 Have you just found a spelling error? Need to fix indentation?
-Send us a [Pull Request][pr]!
+Send us a [Pull Request][pr] :sparkles:
 
 If you have discovered something cool, but don't know exactly if it suits the
 awesome definition submit a [Pull Request][pr] to the [inbox](inbox.md).
