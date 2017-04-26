@@ -53,13 +53,13 @@ for Ruby.
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
-  <sup>[[dep: GraphViz][graphviz] |
+  <sup>[[dep: GraphViz][#graphviz] |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
-  <sup>[[GLS][gls]]</sup>
+  <sup>[[dep: GLS][#gls]]</sup>
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
@@ -79,7 +79,7 @@ for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-  <sup>[[bundled][bundled]]</sup>
+  <sup>[[dep: bundled][#bundled]]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
@@ -98,12 +98,12 @@ for Ruby.
   Principal component analysis (PCA) in Ruby.
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
-  <sup>[[ImageMagick][] | [libjpeg][]]</sup>
+  <sup>[[ImageMagick][#imagemagick] | [libjpeg][#libjpeg]]</sup>
 - [Cerebrum](https://github.com/irfansharif/cerebrum) -
   Artificial Neural Networks in Ruby.
 - [flann](https://github.com/mariusmuja/flann) -
   Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann][]]</sup>
+  <sup>[[flann][#flann]]</sup>
 - [ai4r](https://github.com/SergioFierens/ai4r) -
   Artificial Intelligence for Ruby.
 
@@ -117,20 +117,29 @@ for Ruby.
   Blazingly fast, native, 2d kdtree.
 
 ## External Dependencies
-* [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
+
+* <a name="gls"></a>
+  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
 ```brew install gsl```
-* [OpenCV](http://opencv.org/)
+* <a name="opencv"></a>
+  [OpenCV](http://opencv.org/)
 ```brew tap homebrew/science && brew install opencv```
-* [Graphviz](http://www.graphviz.org/)
+* <a name="empty-lines-around-access-modifier"></a>
+  [Graphviz](http://www.graphviz.org/)
 ```brew install graphviz```
-* [Gnuplot](http://www.gnuplot.info/)
+* <a name="gnuplot"></a>
+  [Gnuplot](http://www.gnuplot.info/)
 ```brew install gnuplot --with-x11```
-    * [X11/XQuartz](https://www.xquartz.org/)
-* [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
+* <a name="xquartz"></a>
+  [X11/XQuartz](https://www.xquartz.org/)
+* <a name="imagemagic"></a>
+  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
 ```brew install imagemagick && brew install libjpeg```
-* [R](http://www.r-project.org/)
+* <a name="r"></a>
+  [R](http://www.r-project.org/)
 ```brew tap homebrew/science && brew install r```
-* [Octave](https://www.gnu.org/software/octave/)
+* <a name="octave"></a>
+  [Octave](https://www.gnu.org/software/octave/)
 ```brew tap homebrew/science && brew install octave --without-docs```
 
 ## Articles, Posts, Talks, and Presentations
