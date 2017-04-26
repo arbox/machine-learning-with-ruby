@@ -21,11 +21,11 @@ the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
 ## Contents
+
 <!-- toc -->
 
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Data Structures](#data-structures)
-- [External Dependencies](#external-dependencies)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Projects and Code Examples](#projects-and-code-examples)
 - [Heroku buildpacks](#heroku-buildpacks)
@@ -38,6 +38,7 @@ the word using the `#RubyML` hash tag!
 - [License](#license)
 
 <!-- tocstop -->
+
 <!-- doc -->
 
 ## Machine Learning Libraries
@@ -116,32 +117,6 @@ for Ruby.
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast, native, 2d kdtree.
 
-## External Dependencies
-
-* <a name="gls"></a>
-  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
-```brew install gsl```
-* <a name="opencv"></a>
-  [OpenCV](http://opencv.org/)
-```brew tap homebrew/science && brew install opencv```
-* <a name="empty-lines-around-access-modifier"></a>
-  [Graphviz](http://www.graphviz.org/)
-```brew install graphviz```
-* <a name="gnuplot"></a>
-  [Gnuplot](http://www.gnuplot.info/)
-```brew install gnuplot --with-x11```
-* <a name="xquartz"></a>
-  [X11/XQuartz](https://www.xquartz.org/)
-* <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
-```brew install imagemagick && brew install libjpeg```
-* <a name="r"></a>
-  [R](http://www.r-project.org/)
-```brew tap homebrew/science && brew install r```
-* <a name="octave"></a>
-  [Octave](https://www.gnu.org/software/octave/)
-```brew tap homebrew/science && brew install octave --without-docs```
-
 ## Articles, Posts, Talks, and Presentations
 
 - 2017
@@ -158,7 +133,8 @@ for Ruby.
   - _How I made a pure-Ruby word2vec program more than 3x faster_ by [Kei Sawada](https://twitter.com/remore)
     <sup>[[slides](https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster)]</sup>
   - _Dōmo arigatō, Mr. Roboto: Machine Learning with Ruby_ by [Eric Weinstein](https://twitter.com/ericqweinstein)
-    <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) | [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
+    <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) |
+          [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
 - 2015
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
@@ -211,15 +187,14 @@ for Ruby.
 
 ## Heroku buildpacks
 
-* [GSL and Ruby buildpack](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
-* [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
-* [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
+- [GSL and Ruby buildpack](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
+- [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
+- [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
 ## Books
 
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
-   _Thoughtful Machine Learning: A Test-Driven Approach_
-   O'Reilly, 2014.
+   _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
 
@@ -237,6 +212,29 @@ on the code here.
 
 ## Related Resources
 
+- <a name="gls"></a>
+  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
+```brew install gsl```
+- <a name="opencv"></a>
+  [OpenCV](http://opencv.org/)
+```brew tap homebrew/science && brew install opencv```
+- <a name="empty-lines-around-access-modifier"></a>
+  [Graphviz](http://www.graphviz.org/)
+```brew install graphviz```
+- <a name="gnuplot"></a>
+  [Gnuplot](http://www.gnuplot.info/)
+```brew install gnuplot --with-x11```
+- <a name="xquartz"></a>
+  [X11/XQuartz](https://www.xquartz.org/)
+- <a name="imagemagic"></a>
+  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
+```brew install imagemagick && brew install libjpeg```
+- <a name="r"></a>
+  [R](http://www.r-project.org/)
+```brew tap homebrew/science && brew install r```
+- <a name="octave"></a>
+  [Octave](https://www.gnu.org/software/octave/)
+```brew tap homebrew/science && brew install octave --without-docs```
 - [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
