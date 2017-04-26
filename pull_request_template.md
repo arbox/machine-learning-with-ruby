@@ -4,7 +4,7 @@
 
 I want to contribute to this list and help the maintainers, so:
 
-- [ ] I've accepted the terms of the [`CC0` License];
+- [ ] I've accepted the terms of the [`CC0` License](LICENSE);
 - [ ] I've provided a descriptive commit message.
 
 In case it suits and can help I did the following:
