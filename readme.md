@@ -13,7 +13,7 @@ utilizing the [Ruby][ruby] programming language.
 Everything in this list comes from our day to day work on various ML applications.
 Read [why](#wait-but-why) this list is awesome.
 
-:sparkle: Every [contribution](#contributing) is welcome! Add links through pull
+:sparkles: Every [contribution](#contributing) is welcome! Add links through pull
 requests or create an issue to start a discussion.
 
 Follow us on [Twitter](https://twitter.com/RubyNLP) and please spread
@@ -255,6 +255,8 @@ on the code here.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
+- []() -
+  xxx.
 
 ## Contributing
 
