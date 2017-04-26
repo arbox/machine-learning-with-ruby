@@ -4,13 +4,12 @@ Have you just found a spelling error? Need to fix indentation?
 Send us a [Pull Request][pr]!
 
 If you have discovered something cool, but don't know exactly if it suits the
-awesome definition submit a [Pull Request][pr] to the [Inbox](inbox.md).
-We'll consider your addition and format it for you in the main list :smiley:
+awesome definition submit a [Pull Request][pr] to the [inbox](inbox.md).
+We'll consider your addition and format it for you in the [main list](readme.md) :smiley:
 
 If you know something pretty cool, it suits the awesome definition, works for you
 and seems to be useful for the community please [add][pr] it to the [main list](readme.md).
-
-Please ensure your pull request adheres to the following guidelines:
+In this case please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Adhere to the existing formatting rules.
@@ -35,10 +34,11 @@ Sometimes we will ask you to edit your Pull Request before it is included.
 This is normally due to spelling errors or because your PR didn't match
 these guidelines.
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md)
-is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here][change-pr] is a write up on how to change a Pull Request and
+the different ways you can do that.
 
 :+1: Thank you for your suggestions!
 
 <!--- links --->
 [pr]: https://github.com/arbox/nlp-with-ruby/pull/new/master
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
