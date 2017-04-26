@@ -4,17 +4,17 @@
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 
-> Useful resources for machine learning in [Ruby][ruby]
+> Useful resources for machine learning in Ruby
 
-This curated list comprises [_awesome_][awesome] resources, libraries,
-information sources about Machine Learning with the [Ruby][ruby] programming language.
+This curated list comprises [_awesome_][awesome] libraries,
+data sources, tutorials and presentations about [Machine Learning][ml]
+utilizing the [Ruby][ruby] programming language.
 
-This list comes from our day to day work on ML Applications.
+Everything in this list comes from our day to day work on various ML applications.
 Read [why](#wait-but-why) this list is awesome.
 
-Our main goal is to promote Ruby as a tool for Machine Learning Tasks. Your help,
-suggestions and contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section.
+:sparkle: Every [contribution](#contributing) is welcome! Add links through pull
+requests or create an issue to start a discussion.
 
 Follow us on [Twitter](https://twitter.com/RubyNLP) and please spread
 the word using the `#RubyML` hash tag!
@@ -331,3 +331,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [ruby]: https://www.ruby-lang.org/en/
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
+[ml]: https://en.wikipedia.org/wiki/Machine_learning
