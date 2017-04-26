@@ -125,8 +125,8 @@ for Ruby.
 ```brew install graphviz```
 * [Gnuplot](http://www.gnuplot.info/)
 ```brew install gnuplot --with-x11```
-* [X11/XQuartz](http://xquartz.macosforge.org/landing/)
-* [ImageMagick](http://www.imagemagick.org/) && libjpeg
+    * [X11/XQuartz](https://www.xquartz.org/)
+* [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
 ```brew install imagemagick && brew install libjpeg```
 * [R](http://www.r-project.org/)
 ```brew tap homebrew/science && brew install r```
@@ -171,7 +171,7 @@ for Ruby.
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
-  - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https:twitter.com/mjkirk)
+  - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
@@ -257,14 +257,14 @@ Before you go ahead you should know that your contributions will be published un
 the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Have you just found a spelling error? Need to fix indentation?
-Send us a [Pull Request][pr] :sparkles:
+Send us a pull request! :sparkles:
 
 If you have discovered something cool, but don't know exactly if it suits the
-awesome definition submit a [Pull Request][pr] to the [inbox](inbox.md).
+awesome definition submit a pull request to the [inbox](inbox.md).
 We'll consider your addition and format it for you in the [main list](readme.md) :smiley:
 
 If you know something pretty cool, it suits the awesome definition, works for you
-and seems to be useful for the community please [add][pr] it to the [main list](readme.md).
+and seems to be useful for the community please add it to the [main list](readme.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
@@ -322,10 +322,5 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
-[motivation]: https://github.com/arbox/machine-learning-with-ruby/blob/master/motivation.md
-[contributing]: https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md
-[todo]: https://github.com/arbox/machine-lerning-with-ruby/blob/master/todo.md
-[faq]: https://github.com/arbox/machine-learning-with-ruby/blob/master/FAQ.md
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
-[pr]: https://github.com/arbox/nlp-with-ruby/pull/new/master
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
