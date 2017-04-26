@@ -48,18 +48,18 @@ for Ruby.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
-  <sup>[[dep: bundled][bundled]]</sup>
+  <sup>[[dep: bundled](#bundled)]</sup>
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
-  <sup>[[dep: GraphViz][#graphviz] |
+  <sup>[[dep: GraphViz](#graphviz) |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
-  <sup>[[dep: GLS][#gls]]</sup>
+  <sup>[[dep: GLS](#gls)]</sup>
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
@@ -79,7 +79,7 @@ for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-  <sup>[[dep: bundled][#bundled]]</sup>
+  <sup>[[dep: bundled](#bundled)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
@@ -98,12 +98,12 @@ for Ruby.
   Principal component analysis (PCA) in Ruby.
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
-  <sup>[[ImageMagick][#imagemagick] | [libjpeg][#libjpeg]]</sup>
+  <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
 - [Cerebrum](https://github.com/irfansharif/cerebrum) -
   Artificial Neural Networks in Ruby.
 - [flann](https://github.com/mariusmuja/flann) -
   Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann][#flann]]</sup>
+  <sup>[[flann](#flann)]</sup>
 - [ai4r](https://github.com/SergioFierens/ai4r) -
   Artificial Intelligence for Ruby.
 
