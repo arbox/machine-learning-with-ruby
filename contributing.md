@@ -1,46 +1,44 @@
 # Contribution Guidelines
 
-You can contribute to this list in three ways. But please read about
-our [motivation](motivation.md) on this curated collection first.
+Have you just found a spelling error? Need to fix indentation?
+Send us a [Pull Request][pr]!
 
-## Adding and Idea to the [Inbox](inbox.md)
+If you have discovered something cool, but don't know exactly if it suits the
+awesome definition submit a [Pull Request][pr] to the [Inbox](inbox.md).
+We'll consider your addition and format it for you in the main list :smiley:
 
-If you have found a library, resource, collection etc, but not used it
-extensively, you can submit a Pull Request to the [Inbox](inbox.md). We'll consider
-your submission and decide how it can be useful in the ML context.
-
-## Adding to the main list
 If you know something pretty cool, it suits the awesome definition, works for you
-and seems to be useful for the community please add it to the main list.
-Provide a description on why it is useful (distinctive features like coverage,
-speed, stability are welcome).
-
-## Working on the list infrastructure
-Like everybody we have a lot to do. Please help us to maintain this list and it's
-infrastructure. In the [todo](todo.md) file you'll find some ideas how and what
-to change in this list.
-
-## How to add to the main list
+and seems to be useful for the community please [add][pr] it to the [main list](readme.md).
 
 Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
-- Use the following format: `- [title](link) - Description.`
-  Note the capitalization and punctuation. Name the tools and libraries exactly
-  how they are required from the Ruby programs, not after the Readme's title, e.g.
-  `treat`, not `Treat`, since you do `require "treat"`.
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
+- Adhere to the existing formatting rules.
+- Use the following format: `- [title](link) - Description. <sup>[Additional info]</sup>`
+- Break down long lines.
+- Check your spelling, grammar, capitalization, and punctuation.
+- Name the tools and libraries exactly how they are required from the Ruby
+  program, not after the Readme's title, e.g. `treat`, not `Treat`, since you
+  do `require "treat"`.
+- Add everything to the bottom of the relevant category.
+- Provide a description on why this stuff is useful (distinctive features like
+  coverage, speed, stability are welcome).
+- Introduce new categories or improve the existing categorization.
+- Remove trailing whitespaces.
+- Provide a useful title and comments for your Pull Request (not `Changed readme.md`).
+- Mention the originator in the PR message, e.g.
+  `Added the neuroevo lib by @giuse.`
+- Add the topic `rubyml` to your repository or open an issue and
+  kindly ask the originator of the project to do so (if applicable for your submission).
 
-Thank you for your suggestions!
-
-## Updating your Pull Request
-Sometimes, we will ask you to edit your Pull Request before it is included.
+Sometimes we will ask you to edit your Pull Request before it is included.
 This is normally due to spelling errors or because your PR didn't match
 these guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md)
 is a write up on how to change a Pull Request, and the different ways you can do that.
+
+:+1: Thank you for your suggestions!
+
+<!--- links --->
+[pr]: https://github.com/arbox/nlp-with-ruby/pull/new/master
