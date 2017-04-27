@@ -26,6 +26,7 @@ the word using the `#RubyML` hash tag!
 
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Data Structures](#data-structures)
+- [Data Visualization](#data-visualization)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Projects and Code Examples](#projects-and-code-examples)
 - [Heroku buildpacks](#heroku-buildpacks)
@@ -116,6 +117,11 @@ for Ruby.
   Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast, native, 2d kdtree.
+
+## Data Visualization
+
+Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
+section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
@@ -334,3 +340,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
 [ml]: https://en.wikipedia.org/wiki/Machine_learning
+[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
