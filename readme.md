@@ -280,9 +280,9 @@ Send us a pull request! :sparkles:
 
 If you have discovered something cool, but don't know exactly if it suits the
 awesome definition submit a pull request to the [inbox](inbox.md).
-We'll consider your addition and format it for you :smiley:
+We'll consider your addition and format it for you! :smiley:
 
-If you know something pretty cool, it suits the awesome definition, works for you
+:boom: If you know something pretty cool, it suits the awesome definition, works for you
 and seems to be useful for the community please add it to the [main list](readme.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
