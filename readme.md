@@ -280,27 +280,23 @@ Send us a pull request! :sparkles:
 
 If you have discovered something cool, but don't know exactly if it suits the
 awesome definition submit a pull request to the [inbox](inbox.md).
-We'll consider your addition and format it for you in the [main list](readme.md) :smiley:
+We'll consider your addition and format it for you :smiley:
 
 If you know something pretty cool, it suits the awesome definition, works for you
 and seems to be useful for the community please add it to the [main list](readme.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
-- Make an individual pull request for each suggestion.
-- Adhere to the existing formatting rules.
-- Use the following format: `- [title](link) - Description. <sup>[Additional info]</sup>`
-- Break down long lines.
-- Check your spelling, grammar, capitalization, and punctuation.
-- Name the tools and libraries exactly how they are required from the Ruby
-  program, not after the Readme's title, e.g. `treat`, not `Treat`, since you
-  do `require "treat"`.
 - Add everything to the bottom of the relevant category.
+- Use the following format: `- [title](link) - Description. <sup>[additional links]</sup>`
 - Provide a description on why this stuff is useful (distinctive features like
   coverage, speed, stability are welcome).
-- Introduce new categories or improve the existing categorization.
-- Remove trailing whitespaces.
+- Name the libraries exactly how they are required from the Ruby program, not
+  after the Readme's title, e.g. `treat`, not `Treat`, since you do `require "treat"`.
+- Break down long lines.
+- Check your spelling, capitalization, and punctuation and trailing whitespace.
+- Introduce new categories or improve the existing categorization if required.
 - Provide a useful title and comments for your Pull Request (not `Changed readme.md`).
-- Mention the originator in the PR message, e.g.
+- Mention the originator in the PR message if possible, e.g.
   `Added the neuroevo lib by @giuse.`
 - Add the topic `rubyml` to your repository or open an issue and
   kindly ask the originator of the project to do so (if applicable for your submission).
