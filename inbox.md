@@ -14,3 +14,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - http://leopard.in.ua/presentations/ml_ruby_2017/
 - https://medium.com/@ryanflach/basic-machine-learning-in-ruby-9cce4a67b40b
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
+- https://github.com/somaticio/tensorflow.rb
