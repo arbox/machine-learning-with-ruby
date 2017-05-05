@@ -6,7 +6,7 @@
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 
-> Useful resources for machine learning in Ruby
+> A Curated List of Ruby Machine Learning Links and Resources
 
 This curated list comprises [_awesome_][awesome] libraries,
 data sources, tutorials and presentations about [Machine Learning][ml]
