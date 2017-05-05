@@ -158,6 +158,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Five machine learning techniques that you can use in your Ruby apps today_ by [Benjamin Curtis](https://twitter.com/stympy)
     <sup>[[video](https://www.youtube.com/watch?v=crziu7dk6Vw) |
           [slides](https://speakerdeck.com/stympy/machine-learning-techniques)]</sup>
+  - _Machine Learning for Fun and Profit_ by [John Paul Ashenfelter](https://twitter.com/johnashenfelter)
+  <sup>[[video](https://www.youtube.com/watch?v=KC5MtKHm1O4)]</sup>
 - 2013
   - _Sentiment Analysis using Support Vector Machines in Ruby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc)]</sup>
