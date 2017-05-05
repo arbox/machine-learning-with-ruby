@@ -26,6 +26,7 @@ the word using the `#RubyML` hash tag!
 
 <!-- toc -->
 
+- [:sparkles: Tutorials](#sparkles-tutorials)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Data Structures](#data-structures)
 - [Data Visualization](#data-visualization)
@@ -43,6 +44,10 @@ the word using the `#RubyML` hash tag!
 <!-- tocstop -->
 
 <!-- doc -->
+
+## :sparkles: Tutorials
+
+Please help us to fill out this section! :smiley:
 
 ## Machine Learning Libraries
 
