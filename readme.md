@@ -134,6 +134,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
 - 2016
+  - _Building a Recommendation Engine with Machine Learning Techniques_ by [Brian Sam-Bodden](https://twitter.com/bsbodden)
+    <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
   - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
   - _Deep Learning: An Introduction for Ruby Developers_ by [Geoffrey Litt](https://twitter.com/geoffreylitt)
@@ -151,6 +153,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web-beta.archive.org/web/20160515115739/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
+  - _Machine Learning for Fun and Profit_ by [John Paul Ashenfelter](https://twitter.com/johnashenfelter)
+    <sup>[[video](https://www.youtube.com/watch?v=KC5MtKHm1O4)]</sup>
   - _Test Driven Neural Networks_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s)]</sup>
   - _Five machine learning techniques that you can use in your Ruby apps today_ by [Benjamin Curtis](https://twitter.com/stympy)
