@@ -30,3 +30,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://medium.com/@ryanflach/basic-machine-learning-in-ruby-9cce4a67b40b
 - http://www.rubylab.io/2015/04/28/denoising-autoencoder-tutorial/
 - https://github.com/febeling/rb-libsvm
+- [Predictor](https://github.com/Pathgather/predictor) - Fast and efficient recommendations and predictions using Redis.
