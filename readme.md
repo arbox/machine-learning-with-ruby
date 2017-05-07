@@ -14,7 +14,9 @@ This curated list comprises [_awesome_][awesome] libraries,
 data sources, tutorials and presentations about [Machine Learning][ml]
 utilizing the [Ruby][ruby] programming language.
 
-Everything in this list comes from our day to day work on various ML applications.
+A lot of useful resources on this list come from the development by
+[The Ruby Science Foundation][sciruby], our [contributors][contributors] and
+our own day to day work on various ML applications.
 Read [why](#wait-but-why) this list is awesome.
 
 :sparkles: Every [contribution](#contributing) is welcome! Add links through pull
@@ -272,8 +274,6 @@ on the code here.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
-- []() -
-  xxx.
 
 ## Contributing
 
@@ -285,27 +285,24 @@ the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1
 Have you just found a spelling error? Need to fix indentation?
 Send us a pull request! :sparkles:
 
-If you have discovered something cool, but don't know exactly if it suits the
-awesome definition submit a pull request to the [inbox](inbox.md).
+You have discovered something cool, but don't know exactly if it suits the
+awesome definition? :+1: Submit a pull request to the [inbox](inbox.md)!
 We'll consider your addition and format it for you! :smiley:
 
 :boom: If you know something pretty cool, it suits the awesome definition, works for you
-and seems to be useful for the community please add it to the [main list](readme.md).
+and seems to be useful for the community please add it to the [main list](README.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
+- Use one commit per addition (several commits per PR are OK).
 - Add everything to the bottom of the relevant category.
-- Use the following format: `- [title](link) - Description. <sup>[additional links]</sup>`
-- Provide a description on why this stuff is useful (distinctive features like
-  coverage, speed, stability are welcome).
+- If required introduce new categories or improve the existing categorization.
+- Use the following format: `- [title](link) - Distinguishing Description. <sup>[additional links]</sup>`
 - Name the libraries exactly how they are required from the Ruby program, not
   after the Readme's title, e.g. `treat`, not `Treat`, since you do `require "treat"`.
-- Break down long lines.
-- Check your spelling, capitalization, and punctuation and trailing whitespace.
-- Introduce new categories or improve the existing categorization if required.
-- Provide a useful title and comments for your Pull Request (not `Changed readme.md`).
-- Mention the originator in the PR message if possible, e.g.
-  `Added the neuroevo lib by @giuse.`
-- Add the topic `rubyml` to your repository or open an issue and
+- Break down long lines, check your spelling, capitalization, and punctuation.
+- Provide a useful titles and comments for your Pull Request (not `Changed readme.md`),
+  mention the originator in the commit message if possible, e.g. `Added the neuroevo lib by @giuse.`
+- Add the topic `rubynlp` to your repository or open an issue and
   kindly ask the originator of the project to do so (if applicable for your submission).
 
 Sometimes we will ask you to edit your Pull Request before it is included.
@@ -333,7 +330,7 @@ dependencies aren't awesome any more! They leave this list.
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 `Awesome ML with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
-[Contributors](https://github.com/arbox/machine-learning-with-ruby/graphs/contributors).
+[Contributors][contributors].
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome ML with Ruby` has waived all copyright and related or neighboring rights
@@ -348,3 +345,5 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
 [ml]: https://en.wikipedia.org/wiki/Machine_learning
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
+[contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
+[sciruby]: https://github.com/sciruby
