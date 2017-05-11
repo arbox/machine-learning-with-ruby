@@ -32,3 +32,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/febeling/rb-libsvm
 - [Predictor](https://github.com/Pathgather/predictor) - Fast and efficient recommendations and predictions using Redis.
 - http://abinoam.tl1n.com/400x-faster-matrix-multiplication-for-ruby/
+- https://github.com/mstuefer/data_mining
