@@ -154,6 +154,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
   - _Building a Recommendation Engine with Machine Learning Techniques_ by [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
+  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
+    <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
+          [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
 - 2015
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
