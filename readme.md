@@ -307,7 +307,7 @@ In this case please ensure your pull request adheres to the following guidelines
 - Break down long lines, check your spelling, capitalization, and punctuation.
 - Provide a useful titles and comments for your Pull Request (not `Changed readme.md`),
   mention the originator in the commit message if possible, e.g. `Added the neuroevo lib by @giuse.`
-- Add the topic `rubynlp` to your repository or open an issue and
+- Add the topic `rubyml` to your repository or open an issue and
   kindly ask the originator of the project to do so (if applicable for your submission).
 
 Sometimes we will ask you to edit your Pull Request before it is included.
