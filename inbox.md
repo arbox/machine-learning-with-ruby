@@ -33,3 +33,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - [Predictor](https://github.com/Pathgather/predictor) - Fast and efficient recommendations and predictions using Redis.
 - http://abinoam.tl1n.com/400x-faster-matrix-multiplication-for-ruby/
 - https://github.com/mstuefer/data_mining
+- https://github.com/arrigonialberto86/ruby-band
