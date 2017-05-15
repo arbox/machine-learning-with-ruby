@@ -122,12 +122,10 @@ for Ruby.
 
 ## Data Structures
 
-- [narray](https://github.com/masa16/narray) -
-  Ruby/NArray: N-dimensional Numerical Array for Ruby.
-- [NMatrix](https://github.com/sciruby/nmatrix) -
-  Dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
-- [kdtree](https://github.com/gurgeous/kdtree) -
-  Blazingly fast, native, 2d kdtree.
+If you're going to implement your own ML algorithms you're probably interested
+in storing your feature sets efficiently. Look for appropriate
+[data structures](https://github.com/arbox/data-science-with-ruby#data-structures)
+in our [Data Science with Ruby][ds-with-ruby] list.
 
 ## Data Visualization
 
