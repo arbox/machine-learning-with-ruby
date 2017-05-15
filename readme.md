@@ -1,126 +1,144 @@
-<img src="header.png" align="center">
-
-[[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
- [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
- [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 # Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
+A curated list of [_awesome_][awesome] resources for [Machine Learning][ml] in [Ruby][ruby], ready to use.  
+Find us on
+[ [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on) |
+  [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D) |
+  [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en) ]
 
-> A Curated List of Ruby Machine Learning Links and Resources
+[_Awesome_][awesome] means **only documented, tested and maintained tools**. The [curators][contributors] will ensure the quality of what is included and what remains in this list.
 
-This curated list comprises [_awesome_][awesome] libraries,
-data sources, tutorials and presentations about [Machine Learning][ml]
-utilizing the [Ruby][ruby] programming language.
+We need your help!
+Spread the word using the `#RubyML` hash tag and tagging your ML repo with the topic `rubyml`.
+If you know of (or maintain) an _awesome_ resource, or if a resource here is not _awesome_ anymore (abandoned, broken dependencies, etc.), [edit our inbox](https://github.com/arbox/machine-learning-with-ruby/edit/master/readme.md) and let us know.
 
-A lot of useful resources on this list come from the development by
-[The Ruby Science Foundation][sciruby], our [contributors][contributors] and
-our own day to day work on various ML applications.
-Read [why](#wait-but-why) this list is awesome.
-
-:sparkles: Every [contribution](#contributing) is welcome! Add links through pull
-requests or create an issue to start a discussion.
-
-Follow us on [Twitter](https://twitter.com/RubyNLP) and please spread
-the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
 ## Contents
 
 <!-- toc -->
 
-- [:sparkles: Tutorials](#sparkles-tutorials)
-- [Machine Learning Libraries](#machine-learning-libraries)
-- [Data Structures](#data-structures)
-- [Data Visualization](#data-visualization)
-- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
-- [Projects and Code Examples](#projects-and-code-examples)
+
+### [Awesome gems](#awesome-gems)
+
+- [Frameworks](#frameworks)
+- [Neural networks](#neural-networks)
+- [Kernel methods](#kernel-methods)
+- [Bayesian methods](#bayesian-methods)
+- [Statistical models](#statistical-models)
+- [Decision trees](decision-trees)
+- [Clustering](#clustering)
+- [Linear classifiers](#linear-classifiers)
+- [Data structures](#data-structures)
+- [Data visualization](#data-visualization)
+
+### [More resources](#more-resources)
+
+- [Applications and examples](#applications-and-examples)
 - [Heroku buildpacks](#heroku-buildpacks)
+- [Articles and Presentations](#articles-and-presentations)
 - [Books](#books)
+- [Related projects](#related-projects)
+- [See also](see-also)
+
+### [Contributing](#contributing)
+
 - [Community](#community)
-- [Needs your Help!](#needs-your-help)
-- [Related Resources](#related-resources)
-- [Contributing](#contributing)
-- [Wait but why?](#wait-but-why)
-- [License](#license)
+- [How to contribute](#how-to-contribute)
 
 <!-- tocstop -->
 
 <!-- doc -->
 
-## :sparkles: Tutorials
 
-Please help us to fill out this section! :smiley:
+## Awesome gems
 
-## Machine Learning Libraries
+### Frameworks
 
-[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) Algorithms
-in pure Ruby or written in other programming languages with appropriate bindings
-for Ruby.
+- [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
+  JRuby bindings for Weka, different ML algorithms implemented through Weka.
+- [rtimbl](https://github.com/maspwr/rtimbl) -
+  Memory based learners from the Timbl framework.
+- [scoruby](https://github.com/asafschers/scoruby) -
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
+- [ai4r](https://github.com/SergioFierens/ai4r) -
+  Artificial Intelligence for Ruby.
+
+### Neural networks
+
+- [ruby-fann](https://github.com/tangledpath/ruby-fann) -
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+  <sup>[[dep: bundled](#bundled)]</sup>
+- [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
+  Recurrent Neural Network library for Ruby.
+- [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
+  A neural network, written in Ruby.
+- [Cerebrum](https://github.com/irfansharif/cerebrum) -
+  Artificial Neural Networks in Ruby.
+  
+### Kernel methods
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
-- [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
-  JRuby bindings for Weka, different ML algorithms implemented through Weka.
-- [decisiontree](https://github.com/igrigorik/decisiontree) -
-  Decision Tree ID3 Algorithm in pure Ruby.
-  <sup>[[dep: GraphViz](#graphviz) |
-        [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
-- [rtimbl](https://github.com/maspwr/rtimbl) -
-  Memory based learners from the Timbl framework.
-- [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
-  General classifier module to allow Bayesian and other types of classifications.
-  <sup>[[dep: GLS](#gls)]</sup>
+
+### Statistical models
+
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
-- [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
-  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
-- [linnaeus](https://github.com/djcp/linnaeus) -
-  Redis-backed Bayesian classifier.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
+- [omnicat](https://github.com/mustafaturan/omnicat) -
+  Generalized rack framework for text classifications.
+- [phashion](https://github.com/westonplatter/phashion) -
+  Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+  <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
+
+### Bayesian methods
+
+- [linnaeus](https://github.com/djcp/linnaeus) -
+  Redis-backed Bayesian classifier.
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
 - [nbayes](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
-- [omnicat](https://github.com/mustafaturan/omnicat) -
-  Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
-- [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-  <sup>[[dep: bundled](#bundled)]</sup>
-- [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
-- [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
-  Recurrent Neural Network library for Ruby.
+
+### Decision trees
+
+- [decisiontree](https://github.com/igrigorik/decisiontree) -
+  Decision Tree ID3 Algorithm in pure Ruby.
+  <sup>[[dep: GraphViz](#graphviz) |
+        [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
+
+### Clustering
+
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
   Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
-- [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  A neural network, written in Ruby.
+- [flann](https://github.com/mariusmuja/flann) -
+  Fast Library for Approximate Nearest Neighbors.
+  <sup>[[flann](#flann)]</sup>
+  
+### Linear classifiers
+
+- [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
+  General classifier module to allow Bayesian and other types of classifications.
+  <sup>[[dep: GLS](#gls)]</sup>
+- [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [liblinear-ruby](https://github.com/kei500/liblinear-ruby) -
   Ruby interface to LIBLINEAR using SWIG.
 - [PCA](https://github.com/gbuesing/pca) -
   Principal component analysis (PCA) in Ruby.
-- [phashion](https://github.com/westonplatter/phashion) -
-  Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
-  <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
-- [Cerebrum](https://github.com/irfansharif/cerebrum) -
-  Artificial Neural Networks in Ruby.
-- [flann](https://github.com/mariusmuja/flann) -
-  Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann](#flann)]</sup>
-- [ai4r](https://github.com/SergioFierens/ai4r) -
-  Artificial Intelligence for Ruby.
 
-## Data Structures
+### Data structures
 
 - [narray](https://github.com/masa16/narray) -
   Ruby/NArray: N-dimensional Numerical Array for Ruby.
@@ -129,12 +147,33 @@ for Ruby.
 - [kdtree](https://github.com/gurgeous/kdtree) -
   Blazingly fast, native, 2d kdtree.
 
-## Data Visualization
+### Data visualization
 
 Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
 
-## Articles, Posts, Talks, and Presentations
+
+## More resources
+
+### Applications and examples
+
+- [Going the Distance](https://github.com/schneems/going_the_distance) -
+  Implementations of various distance algorithms with example calculations.
+- [Named entity recognition with Stanford NER and Ruby](https://github.com/mblongii/ruby-ner) -
+  NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
+- [Words Counted](http://rubywordcount.com/) -
+  examples of customizable word statistics powered by
+  [words_counted](https://github.com/abitdodgy/words_counted).
+- https://github.com/hexgnu/rmw-svm
+- https://github.com/hexgnu/wine_clustering
+
+### Heroku buildpacks
+
+- [GSL and Ruby buildpack](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
+- [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
+- [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
+
+### Articles and presentations
 
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
@@ -154,7 +193,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
   - _Building a Recommendation Engine with Machine Learning Techniques_ by [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
-  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
+  - _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
 - 2015
@@ -197,44 +236,14 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
-## Projects and Code Examples
-
-- [Going the Distance](https://github.com/schneems/going_the_distance) -
-  Implementations of various distance algorithms with example calculations.
-- [Named entity recognition with Stanford NER and Ruby](https://github.com/mblongii/ruby-ner) -
-  NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
-- [Words Counted](http://rubywordcount.com/) -
-  examples of customizable word statistics powered by
-  [words_counted](https://github.com/abitdodgy/words_counted).
-- https://github.com/hexgnu/rmw-svm
-- https://github.com/hexgnu/wine_clustering
-
-## Heroku buildpacks
-
-- [GSL and Ruby buildpack](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
-- [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
-- [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
-
-## Books
+### Books
 
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
    _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
 
-## Community
-
-- [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on)
-- [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
-- [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en)
-
-## Needs your Help!
-
-All projects in this section are really important for the community but need
-more attention. Please if you have spare time and dedication spend some hours
-on the code here.
-
-## Related Resources
+### Related projects
 
 - <a name="gls"></a>
   [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
@@ -280,60 +289,32 @@ on the code here.
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 
+### See also
+
+- [The Ruby Science Foundation][sciruby]
+- [RubyDataScience](https://github.com/arbox/data-science-with-ruby)
+- [RubyInterop](https://github.com/arbox/ruby-interoperability)
+- [RubyNLP](https://github.com/arbox/nlp-with-ruby)
+
 ## Contributing
 
-:sparkles: We are very glad to see you in this section! :sparkles:
+:sparkles: Developers! Teach us how to use your code! We will make your tutorials known! :sparkles:
 
-Before you go ahead you should know that your contributions will be published under
-the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1.0/).
+Suggest us edits through pull requests or create an issue and start a discussion. We accept pull-requests adhering the following standards:
 
-Have you just found a spelling error? Need to fix indentation?
-Send us a pull request! :sparkles:
+- Neat commits (one per addition, sensible comments, grammar)
+- Neat pull request comments (descriptive and clear, no `Changed readme.md`)
+- Mentioning the users helps (e.g. `Added gem neuroevo by @giuse.`)
+- Add (or ask to) the topic `rubyml` to the repo
 
-You have discovered something cool, but don't know exactly if it suits the
-awesome definition? :+1: Submit a pull request to the [inbox](inbox.md)!
-We'll consider your addition and format it for you! :smiley:
+If this is your first pull request, check [here][change-pr] for more info.
 
-:boom: If you know something pretty cool, it suits the awesome definition, works for you
-and seems to be useful for the community please add it to the [main list](README.md).
-In this case please ensure your pull request adheres to the following guidelines:
-
-- Use one commit per addition (several commits per PR are OK).
-- Add everything to the bottom of the relevant category.
-- If required introduce new categories or improve the existing categorization.
-- Use the following format: `- [title](link) - Distinguishing Description. <sup>[additional links]</sup>`
-- Name the libraries exactly how they are required from the Ruby program, not
-  after the Readme's title, e.g. `treat`, not `Treat`, since you do `require "treat"`.
-- Break down long lines, check your spelling, capitalization, and punctuation.
-- Provide a useful titles and comments for your Pull Request (not `Changed readme.md`),
-  mention the originator in the commit message if possible, e.g. `Added the neuroevo lib by @giuse.`
-- Add the topic `rubyml` to your repository or open an issue and
-  kindly ask the originator of the project to do so (if applicable for your submission).
-
-Sometimes we will ask you to edit your Pull Request before it is included.
-This is normally due to spelling errors or because your PR didn't match
-these guidelines.
-
-[Here][change-pr] is a write up on how to change a Pull Request and
-the different ways you can do that.
-
-:+1: Thank you for your suggestions!
-
-## Wait but why?
-
-There are a lot of software lists with ML related tools. There are a couple of lists
-with Ruby related projects. There are no lists of only working and tested
-software with documented scope. We'll try to make one!
-
-What is awesome? Awesome are documented, maintained and focused tools.
-
-Can something turn not awesome at a point? Yes! Abandoned projects with broken
-dependencies aren't awesome any more! They leave this list.
+:+1: Thanks! You're _awesome_! :+1:
 
 
 ## License
 
-[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 `Awesome ML with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
 [Contributors][contributors].
 
@@ -344,7 +325,8 @@ to `Awesome ML with Ruby`.
 You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
-<!--- Links --->
+<!-- MD links -->
+
 [ruby]: https://www.ruby-lang.org/en/
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
