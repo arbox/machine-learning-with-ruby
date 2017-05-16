@@ -37,3 +37,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - [`neuroevo`](https://github.com/giuse/neuroevo) - Full neuroevolution setup, including an all-ruby implementation of neural networks (both feed-forward and recurrent, fully-connected) and two Natural Evolution Strategy black-box optimization algorithms (xNES and SNES). Based on `NMatrix`.
 - [`simple_ga`](https://github.com/giuse/simple_ga) - Basic (working) demo program on Genetic Algorithms in Ruby
 - [`data-modeler`](https://github.com/giuse/data_modeler) - Train models based on your data using Machine Learning (work in progress)
+- https://github.com/ConsultingMD/factree
