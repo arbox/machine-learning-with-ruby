@@ -32,8 +32,17 @@ the word using the `#RubyML` hash tag!
 
 - [:sparkles: Tutorials](#sparkles-tutorials)
 - [Machine Learning Libraries](#machine-learning-libraries)
-- [Data Structures](#data-structures)
-- [Data Visualization](#data-visualization)
+  * [Frameworks](#frameworks)
+  * [Neural networks](#neural-networks)
+  * [Kernel methods](#kernel-methods)
+  * [Bayesian methods](#bayesian-methods)
+  * [Decision trees](#decision-trees)
+  * [Clustering](#clustering)
+  * [Linear classifiers](#linear-classifiers)
+  * [Statistical models](#statistical-models)
+- [Applications of machine learning](#applications-of-machine-learning)
+- [Data structures](#data-structures)
+- [Data visualization](#data-visualization)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Projects and Code Examples](#projects-and-code-examples)
 - [Heroku buildpacks](#heroku-buildpacks)
@@ -191,7 +200,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[video](https://www.youtube.com/watch?v=KC5MtKHm1O4)]</sup>
 - 2013
   - _Sentiment Analysis using Support Vector Machines in Ruby_ by [Matthew Kirk](https://twitter.com/mjkirk)
-    <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc)]</sup>
+    <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc) |
+          [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   - _Recommender Systems with Ruby_ by [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
 - 2012
@@ -218,15 +228,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Projects and Code Examples
 
-- [Going the Distance](https://github.com/schneems/going_the_distance) -
-  Implementations of various distance algorithms with example calculations.
-- [Named entity recognition with Stanford NER and Ruby](https://github.com/mblongii/ruby-ner) -
-  NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
-- [Words Counted](http://rubywordcount.com/) -
-  examples of customizable word statistics powered by
-  [words_counted](https://github.com/abitdodgy/words_counted).
-- https://github.com/hexgnu/rmw-svm
-- https://github.com/hexgnu/wine_clustering
+- [Wine Clustering](https://github.com/hexgnu/wine_clustering) -
+  wine quality estimations clustered with different algorithms.
 
 ## Heroku buildpacks
 
