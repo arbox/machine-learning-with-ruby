@@ -89,6 +89,9 @@ for Ruby.
 - [brains](https://github.com/jedld/brains-jruby) -
   feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
+- [neuroevo](https://github.com/giuse/neuroevo) -
+  pure Ruby implementation of both feed-forward and recurrent, fully-connected
+  neural networks (via xNES and SNES).
 
 ### Kernel methods
 
