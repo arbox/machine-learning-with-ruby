@@ -79,19 +79,19 @@ for Ruby.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  A neural network, written in Ruby.
+  Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-- [Cerebrum](https://github.com/irfansharif/cerebrum) -
-  Artificial Neural Networks in Ruby.
+- [cerebrum](https://github.com/irfansharif/cerebrum) -
+  Experimental implementation for Artificial Neural Networks in Ruby.
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
   Recurrent Neural Network library for Ruby.
 - [brains](https://github.com/jedld/brains-jruby) -
-  feed-forward neural networks for JRuby based on
+  Feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
 - [neuroevo](https://github.com/giuse/neuroevo) -
-  pure Ruby implementation of both feed-forward and recurrent, fully-connected
-  neural networks (via xNES and SNES).
+  Pure Ruby evolutional implementation of both feed-forward and recurrent,
+  fully-connected neural networks (via xNES and SNES).
 
 ### Kernel methods
 
