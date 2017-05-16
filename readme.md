@@ -59,75 +59,96 @@ Please help us to fill out this section! :smiley:
 in pure Ruby or written in other programming languages with appropriate bindings
 for Ruby.
 
-- [rb-libsvm](https://github.com/febeling/rb-libsvm) -
-  Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
-  <sup>[[dep: bundled](#bundled)]</sup>
+### Frameworks
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
-- [decisiontree](https://github.com/igrigorik/decisiontree) -
-  Decision Tree ID3 Algorithm in pure Ruby.
-  <sup>[[dep: GraphViz](#graphviz) |
-        [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
-- [rtimbl](https://github.com/maspwr/rtimbl) -
-  Memory based learners from the Timbl framework.
+- [ai4r](https://github.com/SergioFierens/ai4r) -
+  Artificial Intelligence for Ruby.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
-- [lda-ruby](https://github.com/ealdent/lda-ruby) -
-  Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
-  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
-- [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
-  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
+
+### Neural networks
+- [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
+  A neural network, written in Ruby.
+- [ruby-fann](https://github.com/tangledpath/ruby-fann) -
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+- [Cerebrum](https://github.com/irfansharif/cerebrum) -
+  Artificial Neural Networks in Ruby.
+- [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
+  Recurrent Neural Network library for Ruby.
+
+### Kernel methods
+
+- [rb-libsvm](https://github.com/febeling/rb-libsvm) -
+  Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
+  <sup>[[dep: bundled](#bundled)]</sup>
+
+### Bayesian methods
 - [linnaeus](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
-- [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
-  JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
 - [nbayes](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
-- [omnicat](https://github.com/mustafaturan/omnicat) -
-  Generalized rack framework for text classifications.
-- [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
-  Naive Bayes text classification implementation as an OmniCat classifier strategy.
-- [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-  <sup>[[dep: bundled](#bundled)]</sup>
-- [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
-- [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
-  Recurrent Neural Network library for Ruby.
+
+### Decision trees
+
+- [decisiontree](https://github.com/igrigorik/decisiontree) -
+  Decision Tree ID3 Algorithm in pure Ruby.
+  <sup>[[dep: GraphViz](#graphviz) |
+        [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
+
+### Clustering
+
+- [flann](https://github.com/mariusmuja/flann) -
+  Fast Library for Approximate Nearest Neighbors.
+  <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
   Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
-- [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  A neural network, written in Ruby.
+
+### Linear classifiers
+
+- [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [liblinear-ruby](https://github.com/kei500/liblinear-ruby) -
   Ruby interface to LIBLINEAR using SWIG.
-- [PCA](https://github.com/gbuesing/pca) -
-  Principal component analysis (PCA) in Ruby.
+
+### Statistical models
+
+- [rtimbl](https://github.com/maspwr/rtimbl) -
+  Memory based learners from the Timbl framework.
+- [lda-ruby](https://github.com/ealdent/lda-ruby) -
+  Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
+- [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
+  JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
+- [omnicat](https://github.com/mustafaturan/omnicat) -
+  Generalized rack framework for text classifications.
+- [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
+  Naive Bayes text classification implementation as an OmniCat classifier strategy.
+  <sup>[[dep: bundled](#bundled)]</sup>
+
+## Applications of machine learning
+
+- [scoruby](https://github.com/asafschers/scoruby) -
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
   <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
-- [Cerebrum](https://github.com/irfansharif/cerebrum) -
-  Artificial Neural Networks in Ruby.
-- [flann](https://github.com/mariusmuja/flann) -
-  Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann](#flann)]</sup>
-- [ai4r](https://github.com/SergioFierens/ai4r) -
-  Artificial Intelligence for Ruby.
 
-## Data Structures
+## Data structures
 
 If you're going to implement your own ML algorithms you're probably interested
 in storing your feature sets efficiently. Look for appropriate
 [data structures](https://github.com/arbox/data-science-with-ruby#data-structures)
 in our [Data Science with Ruby][ds-with-ruby] list.
 
-## Data Visualization
+## Data visualization
 
 Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
