@@ -86,6 +86,9 @@ for Ruby.
   Artificial Neural Networks in Ruby.
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
   Recurrent Neural Network library for Ruby.
+- [brains](https://github.com/jedld/brains-jruby) -
+  feed-forward neural networks for JRuby based on
+  [brains](https://github.com/jedld/brains).
 
 ### Kernel methods
 
