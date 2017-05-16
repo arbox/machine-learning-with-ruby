@@ -235,7 +235,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Projects and Code Examples
 
 - [Wine Clustering](https://github.com/hexgnu/wine_clustering) -
-  wine quality estimations clustered with different algorithms.
+  Wine quality estimations clustered with different algorithms.
+- [simple_ga](https://github.com/giuse/simple_ga) -
+  Basic (working) demo program on Genetic Algorithms in Ruby.
 
 ## Heroku buildpacks
 
