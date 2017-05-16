@@ -76,6 +76,8 @@ for Ruby.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
+- [scoruby](https://github.com/asafschers/scoruby) -
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).  
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
@@ -150,8 +152,6 @@ for Ruby.
 
 ## Applications of machine learning
 
-- [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
   <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
