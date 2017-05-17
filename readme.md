@@ -77,7 +77,7 @@ for Ruby.
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).  
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
@@ -219,7 +219,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
-    <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
+    <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
