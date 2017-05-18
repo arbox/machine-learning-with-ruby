@@ -92,14 +92,22 @@ for Ruby.
   Feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
 - [neuroevo](https://github.com/giuse/neuroevo) -
-  Pure Ruby evolutional implementation of both feed-forward and recurrent,
-  fully-connected neural networks (via xNES and SNES).
+  Pure Ruby implementation of both feed-forward and recurrent neural networks
+  (fully connected). Training using neuroevolution (xNES and SNES).
 
 ### Kernel methods
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
+
+### Evolutionary algorithms
+- [neuroevo](https://github.com/giuse/neuroevo) -
+  Pure Ruby implementation of Natural Evolution Strategy algorithms
+  (black-box optimization), specifically Exponential NES (XNES) and
+  Separable NES (sNES). Application to neural network training (neuroevolution).
+- [simple_ga](https://github.com/giuse/simple_ga) -
+  Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
 - [linnaeus](https://github.com/djcp/linnaeus) -
@@ -237,7 +245,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Wine Clustering](https://github.com/hexgnu/wine_clustering) -
   Wine quality estimations clustered with different algorithms.
 - [simple_ga](https://github.com/giuse/simple_ga) -
-  Basic (working) demo program on Genetic Algorithms in Ruby.
+  Basic (working) demo of Genetic Algorithms in Ruby.
 
 ## Heroku buildpacks
 
