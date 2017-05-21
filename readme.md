@@ -177,10 +177,11 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
   - _Is it Food? An Introduction to Machine Learning_ by [Matthew Mongeau](https://twitter.com/halogenandtoast)
-    <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY)]</sup>
+    <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY) |
+  -       []()]</sup>
   - _Bayes is BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
-    [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
+          [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
 - 2016
   - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
