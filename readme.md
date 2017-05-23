@@ -186,7 +186,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
   - _Is it Food? An Introduction to Machine Learning_ by [Matthew Mongeau](https://twitter.com/halogenandtoast)
     <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY) |
-  -       [slides](https://www.slideshare.net/halogenandtoast/is-it-food)]</sup>
+          [slides](https://www.slideshare.net/halogenandtoast/is-it-food)]</sup>
   - _Bayes is BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
