@@ -36,3 +36,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - [`data-modeler`](https://github.com/giuse/data_modeler) - Train models based on your data using Machine Learning (work in progress)
 - https://github.com/ConsultingMD/factree
 - http://davidkariuki.com/blog/2014/05/25/k-means-clustering-with-ruby
+- https://github.com/Tcom242242/t_learn
