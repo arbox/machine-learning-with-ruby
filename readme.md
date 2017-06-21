@@ -231,6 +231,10 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
   - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
+  - _Practical Machine Learning and Rails_ by [Andrew Cantino](https://twitter.com/tectonic)
+    and [Ryan Stout](https://twitter.com/ryanstout)
+    <sup>[[video](http://confreaks.tv/videos/railsconf2012-practical-machine-learning-and-rails)]</sup>
+
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
