@@ -233,7 +233,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
   - _Practical Machine Learning and Rails_ by [Andrew Cantino](https://twitter.com/tectonic)
     and [Ryan Stout](https://twitter.com/ryanstout)
-    <sup>[[video](http://confreaks.tv/videos/railsconf2012-practical-machine-learning-and-rails)]</sup>
+    <sup>[[video](https://www.youtube.com/watch?v=vy_zQ1-F0JI)]</sup>
 
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
