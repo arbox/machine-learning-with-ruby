@@ -241,6 +241,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
+  - _Intelligent Ruby: Getting Started with Machine Learning_ by [Ilya Grigorik](https://twitter.com/igrigorik)
+    <sup>[[video](https://vimeo.com/22513786)]</sup>
 - 2009
 
 - 2008
