@@ -79,6 +79,8 @@ for Ruby.
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
+- [data_modeler](https://github.com/giuse/data_modeler) -
+  Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
