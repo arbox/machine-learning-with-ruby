@@ -22,7 +22,7 @@ Read [why](#wait-but-why) this list is awesome.
 :sparkles: Every [contribution](#contributing) is welcome! Add links through pull
 requests or create an issue to start a discussion.
 
-Follow us on [Twitter](https://twitter.com/RubyNLP) and please spread
+Follow us on [Twitter](https://twitter.com/NonWebRuby) and please spread
 the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
