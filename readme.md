@@ -78,7 +78,7 @@ for Ruby.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
-- [rblearn](- https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
+- [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
