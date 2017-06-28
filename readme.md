@@ -69,7 +69,7 @@ in pure Ruby or written in other programming languages with appropriate bindings
 for Ruby.
 
 ### Frameworks
-- [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
+- [weka](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
   Artificial Intelligence for Ruby.
