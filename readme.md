@@ -81,6 +81,9 @@ for Ruby.
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
+  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby_modular)
+  and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
