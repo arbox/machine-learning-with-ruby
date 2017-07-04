@@ -271,12 +271,14 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [OpenCV and Ruby buildpack](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
 - [ImageMagick buildpack](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
-## Books
+## Books, Blogs, Channels
 
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
    _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
+
+- [Practical Artificial Intelligence](http://www.practicalai.io/)
 
 ## Community
 
