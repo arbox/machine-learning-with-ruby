@@ -278,7 +278,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
 
-- [Practical Artificial Intelligence](http://www.practicalai.io/)
+- [Practical Artificial Intelligence](http://www.practicalai.io/). Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.  
 
 ## Community
 
