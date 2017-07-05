@@ -202,7 +202,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Bayes is BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
-  - _Ruby Roundtable: Machine Learning in Ruby_ by [RubyThursday](https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A)
+  - _Ruby Roundtable: Machine Learning in Ruby_ by [RubyThursday](https://rubythursday.com/)
     <sup>[[video](https://www.youtube.com/watch?v=ScIFARN0jCo)]</sup>
 - 2016
   - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
@@ -219,6 +219,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
+  - _Ruby Roundtable: Intro to Tensorflow_ by [RubyThursday](https://rubythursday.com/)
+    <sup>[[video](https://www.youtube.com/watch?v=pYC5mXHUWkc)]</sup>
 - 2015
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
