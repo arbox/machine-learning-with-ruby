@@ -202,6 +202,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Bayes is BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
+  - _Ruby Roundtable: Machine Learning in Ruby_ by [RubyThursday](https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A)
+    <sup>[[video](https://www.youtube.com/watch?v=ScIFARN0jCo)]</sup>
 - 2016
   - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
