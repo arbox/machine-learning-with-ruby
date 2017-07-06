@@ -254,6 +254,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2011
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
+  - _Text Classification using Support Vector Machines in Ruby_ by [Rimas Silkaitis](https://twitter.com/neovintage)
+    <sup>[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
