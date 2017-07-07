@@ -77,9 +77,8 @@ Please help us to fill out this section! :smiley:
 
 ## Machine Learning Libraries
 
-[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) Algorithms
-in pure Ruby or written in other programming languages with appropriate bindings
-for Ruby.
+[Machine Learning][ml] algorithms in pure Ruby or written in other
+programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 - [weka](https://github.com/paulgoetze/weka-jruby) -
