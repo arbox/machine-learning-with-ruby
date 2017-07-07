@@ -10,6 +10,14 @@
 
 > A Curated List of Ruby Machine Learning Links and Resources
 
+[Machine Learning][ml] is a field of [Computational Science][cs] -
+often nested under [AI][ai] research - with many practical
+applications due to the ability of resulting algorithms to
+systematically implement a specific solution without explicit
+programmer's instructions. Obviously many algorithms need a definition
+of [features][fe] to look at or a biggish [training set][ts] of data to derive the
+solution from.
+
 This curated list comprises [_awesome_][awesome] libraries,
 data sources, tutorials and presentations about [Machine Learning][ml]
 utilizing the [Ruby][ruby] programming language.
@@ -423,3 +431,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
 [contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
 [sciruby]: https://github.com/sciruby
+[ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
+[cs]: https://en.wikipedia.org/wiki/Computational_science
+[fe]: https://en.wikipedia.org/wiki/Feature_engineering
+[ts]: https://en.wikipedia.org/wiki/Test_set
