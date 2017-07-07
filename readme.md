@@ -301,9 +301,13 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Community
 
-- [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on)
-- [Stack Overflow](https://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
-- [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en)
+- [SciRuby Mailing List](https://groups.google.com/forum/#!forum/sciruby-dev)
+- [SciRuby Slack](https://sciruby.slack.com/)
+- [Red Data Gitter](https://gitter.im/red-data-tools/)
+- [Reddit](https://www.reddit.com/r/MachineLearning/search?q=Ruby&restrict_sr=on)
+- [Stack Overflow](https://stackoverflow.com/search?q=machine+learning+ruby)
+- [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
+- [NonWebRuby](https://twitter.com/NonWebRuby)
 
 ## Needs your Help!
 
