@@ -36,3 +36,5 @@ these guidelines.
 the different ways you can do that.
 
 :+1: Thank you for your suggestions!
+
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
