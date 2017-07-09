@@ -36,3 +36,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - http://davidkariuki.com/blog/2014/05/25/k-means-clustering-with-ruby
 - https://github.com/Tcom242242/t_learn
 - https://github.com/piroor/tiny-classifier
+- https://github.com/josephwilk/tlearn-rb
