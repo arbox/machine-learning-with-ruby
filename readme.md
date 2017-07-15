@@ -74,6 +74,9 @@ Please help us to fill out this section! :smiley:
 - [How to implement classification using logistic regression in Ruby](http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
 - [How to implement simple binary classification using a Neural Network in Ruby](http://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-neural-network)]</sup>
+- [How to implement classification using a SVM in Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
+    <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
+
 
 ## Machine Learning Libraries
 
