@@ -98,6 +98,8 @@ programming languages with appropriate bindings for Ruby.
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
+- [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
+  Machine Learning API of the Microsoft Azure.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
