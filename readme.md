@@ -96,6 +96,8 @@ programming languages with appropriate bindings for Ruby.
 - [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
+- [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
+  Machine Learning API of the Amazon Web Services.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
