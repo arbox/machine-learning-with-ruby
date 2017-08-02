@@ -78,6 +78,7 @@ Please help us to fill out this section! :smiley:
 - [How to implement classification using a SVM in Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
 - [Unsupervised learning using k-means clustering in Ruby](http://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)
+  <sup>[[code](https://github.com/daugaard/example-kmeans-clustering)]</sup>
 
 ## Machine Learning Libraries
 
