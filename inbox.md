@@ -38,3 +38,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/piroor/tiny-classifier
 - https://github.com/josephwilk/tlearn-rb
 - https://github.com/xuanxu/nimbus
+- https://github.com/yoshoku/LibSVMLoader

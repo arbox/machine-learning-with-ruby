@@ -43,6 +43,7 @@ the word using the `#RubyML` hash tag!
   * [Frameworks](#frameworks)
   * [Neural networks](#neural-networks)
   * [Kernel methods](#kernel-methods)
+  * [Evolutionary algorithms](#evolutionary-algorithms)
   * [Bayesian methods](#bayesian-methods)
   * [Decision trees](#decision-trees)
   * [Clustering](#clustering)
@@ -54,7 +55,7 @@ the word using the `#RubyML` hash tag!
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Projects and Code Examples](#projects-and-code-examples)
 - [Heroku buildpacks](#heroku-buildpacks)
-- [Books](#books)
+- [Books, Blogs, Channels](#books-blogs-channels)
 - [Community](#community)
 - [Needs your Help!](#needs-your-help)
 - [Related Resources](#related-resources)
@@ -75,8 +76,13 @@ Please help us to fill out this section! :smiley:
 - [How to implement simple binary classification using a Neural Network in Ruby](http://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-neural-network)]</sup>
 - [How to implement classification using a SVM in Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
-    <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
-
+  <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
+- [Unsupervised learning using k-means clustering in Ruby](http://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)
+  <sup>[[code](https://github.com/daugaard/example-kmeans-clustering)]</sup>
+- [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/)
+  <sup>[[code](https://github.com/daugaard/q-learning-simple-game)]</sup>
+- [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/)
+  <sup>[[code](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 
 ## Machine Learning Libraries
 
@@ -99,6 +105,10 @@ programming languages with appropriate bindings for Ruby.
 - [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
+- [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
+  Machine Learning API of the Amazon Web Services.
+- [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
+  Machine Learning API of the Microsoft Azure.
 
 ### Neural networks
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
