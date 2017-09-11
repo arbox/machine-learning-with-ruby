@@ -79,6 +79,10 @@ Please help us to fill out this section! :smiley:
   <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
 - [Unsupervised learning using k-means clustering in Ruby](http://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-kmeans-clustering)]</sup>
+- [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/)
+  <sup>[[code](https://github.com/daugaard/q-learning-simple-game)]</sup>
+- [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/)
+  <sup>[[code](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 
 ## Machine Learning Libraries
 
