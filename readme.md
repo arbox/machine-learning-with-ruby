@@ -308,7 +308,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
    _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
-- [Practical Artificial Intelligence](http://www.practicalai.io/) -
+- [Practical Artificial Intelligence](https://www.practicalai.io/) -
   Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
 
 ## Community
@@ -401,7 +401,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 [ml]: https://en.wikipedia.org/wiki/Machine_learning
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
 [contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
