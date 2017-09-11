@@ -70,14 +70,14 @@ the word using the `#RubyML` hash tag!
 
 Please help us to fill out this section! :smiley:
 
-- [How to implement linear regression in Ruby](http://www.practicalai.io/implementing-linear-regression-using-ruby/)
+- [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/)
   <sup>[[code](https://github.com/daugaard/example-linear-regression)]</sup>
-- [How to implement classification using logistic regression in Ruby](http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
-- [How to implement simple binary classification using a Neural Network in Ruby](http://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
+- [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
+- [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-neural-network)]</sup>
-- [How to implement classification using a SVM in Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
+- [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
-- [Unsupervised learning using k-means clustering in Ruby](http://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)
+- [Unsupervised learning using k-means clustering in Ruby](https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-kmeans-clustering)]</sup>
 - [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/)
   <sup>[[code](https://github.com/daugaard/q-learning-simple-game)]</sup>
