@@ -83,6 +83,9 @@ Please help us to fill out this section! :smiley:
   <sup>[[code](https://github.com/daugaard/q-learning-simple-game)]</sup>
 - [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/)
   <sup>[[code](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
+- [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/)
+  <sup>[[code](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
+
 
 ## Machine Learning Libraries
 
