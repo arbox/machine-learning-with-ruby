@@ -128,6 +128,9 @@ programming languages with appropriate bindings for Ruby.
 - [neuroevo](https://github.com/giuse/neuroevo) -
   Pure Ruby implementation of both feed-forward and recurrent neural networks
   (fully connected). Training using neuroevolution (xNES and SNES).
+- [rann](https://github.com/mikecmpbll/rann) -
+  Flexible Ruby ANN implementation with backprop (through-time, for recurrent
+  nets), gradient checking, adagrad, and parallel batch execution.
 
 ### Kernel methods
 
