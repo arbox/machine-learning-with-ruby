@@ -135,7 +135,7 @@ programming languages with appropriate bindings for Ruby.
 ### Kernel methods
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
-  Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
+  Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
@@ -339,7 +339,7 @@ on the code here.
   [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
 ```brew install gsl```
 - <a name="opencv"></a>
-  [OpenCV](http://opencv.org/)
+  [OpenCV](https://opencv.org/)
 ```brew tap homebrew/science && brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)
