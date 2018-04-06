@@ -85,7 +85,7 @@ Please help us to fill out this section! :smiley:
   <sup>[[code](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 - [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/)
   <sup>[[code](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
-
+- [How to _evolve_ neural networks in Ruby using the Machine Learning Workbench](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
 
 ## Machine Learning Libraries
 
@@ -93,6 +93,7 @@ Please help us to fill out this section! :smiley:
 programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
+
 - [weka](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
@@ -112,8 +113,18 @@ programming languages with appropriate bindings for Ruby.
   Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
   Machine Learning API of the Microsoft Azure.
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench) -
+  Growing machine learning framework written in pure Ruby, high performance computing using
+  [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo](https://github.com/sonots/cumo).
+  Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
+  examples and utilities.
+- [Deep NeuroEvolution](https://github.com/giuse/DNE) -
+  Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
+  towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
+  [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
 
 ### Neural networks
+
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
@@ -125,9 +136,9 @@ programming languages with appropriate bindings for Ruby.
 - [brains](https://github.com/jedld/brains-jruby) -
   Feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
-- [neuroevo](https://github.com/giuse/neuroevo) -
-  Pure Ruby implementation of both feed-forward and recurrent neural networks
-  (fully connected). Training using neuroevolution (xNES and SNES).
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
+  Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
+  (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
@@ -139,14 +150,17 @@ programming languages with appropriate bindings for Ruby.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
-- [neuroevo](https://github.com/giuse/neuroevo) -
-  Pure Ruby implementation of Natural Evolution Strategy algorithms
-  (black-box optimization), specifically Exponential NES (XNES) and
-  Separable NES (sNES). Application to neural network training (neuroevolution).
+
+- [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
+  Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
+  (black-box optimization), specifically Exponential NES (XNES),
+  Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
+  Applications include neural network search/training (neuroevolution).
 - [simple_ga](https://github.com/giuse/simple_ga) -
   Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
+
 - [linnaeus](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
