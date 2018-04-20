@@ -40,3 +40,5 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/xuanxu/nimbus
 - https://github.com/yoshoku/LibSVMLoader
 - https://github.com/IBM-ATAT/ibm-ml-ruby
+- https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5
+
