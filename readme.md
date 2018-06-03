@@ -229,6 +229,11 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2018
+  - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
+    &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
+    <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
+          [page](http://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
     <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
