@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
@@ -107,8 +107,7 @@ programming languages with appropriate bindings for Ruby.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
 - [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
-  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
-  and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
+  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
@@ -233,7 +232,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
     &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
-          [page](http://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
+          [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
     <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
@@ -377,7 +376,7 @@ on the code here.
 - <a name="octave"></a>
   [Octave](https://www.gnu.org/software/octave/)
 ```brew tap homebrew/science && brew install octave --without-docs```
-- [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
