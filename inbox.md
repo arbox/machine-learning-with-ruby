@@ -41,5 +41,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/IBM-ATAT/ibm-ml-ruby
 - https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5
 - https://github.com/cardmagic/classifier
-- https://github.com/jedld/tensor_stream
 - https://github.com/dansbits/lurn
