@@ -232,12 +232,14 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 - 2019
   - _TensorStream: Bringing Machine Learning to Ruby_ by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
-    <sup>[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)</sup>
+    <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
 - 2018
   - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
     &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
           [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
+  - _How to use trained Keras and TensorFlow machine learning models within Ruby on Rails_ by [Denis Sellu](https://twitter.com/denis_sellu)
+    <sup>[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
     <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
