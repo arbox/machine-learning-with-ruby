@@ -141,6 +141,8 @@ programming languages with appropriate bindings for Ruby.
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
+- [tensor_stream](https://github.com/jedld/tensor_stream) -
+  Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Kernel methods
 
