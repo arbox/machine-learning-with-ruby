@@ -1,12 +1,12 @@
 <img src="header.png" align="center">
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
-# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
+# Awesome Machine Learning with Ruby [<img src="ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > A Curated List of Ruby Machine Learning Links and Resources
 
