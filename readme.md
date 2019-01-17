@@ -147,6 +147,8 @@ programming languages with appropriate bindings for Ruby.
   nets), gradient checking, adagrad, and parallel batch execution.
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
+- [red-chainer](https://github.com/red-data-tools/red-chainer) -
+  Deep learning framework for Ruby.
 
 ### Kernel methods
 
