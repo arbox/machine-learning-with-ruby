@@ -8,7 +8,7 @@
 
 # Awesome Machine Learning with Ruby [<img src="ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
-> A Curated List of Ruby Machine Learning Links and Resources
+> Curated List of Ruby Machine Learning Links and Resources
 
 [Machine Learning][ml] is a field of [Computational Science][cs] -
 often nested under [AI][ai] research - with many practical
@@ -121,6 +121,10 @@ programming languages with appropriate bindings for Ruby.
   Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
   towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
   [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
+- [svmkit](https://github.com/yoshoku/SVMKit) -
+  Machine Learninig toolkit in Ruby with wide range of implemented algorithms
+  (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
+  interfaces similar to Scikit-Learn in Python.
 
 ### Neural networks
 
