@@ -237,6 +237,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2019
   - _TensorStream: Bringing Machine Learning to Ruby_ by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
     <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
+  - _Easy machine learning with Ruby using SVMKit_ by [@kojix](https://twitter.com/kojix2dayo)
+    <sup>[[post](https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86)]</sup>
 - 2018
   - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
     &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
