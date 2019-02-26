@@ -298,6 +298,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
           [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   - _Recommender Systems with Ruby_ by [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
+  - _Detecting Faces with Ruby: FFI in a Nutshell_ by [Marc Berszick]()
+    <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
