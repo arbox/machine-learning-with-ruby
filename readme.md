@@ -121,7 +121,7 @@ programming languages with appropriate bindings for Ruby.
   Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
   towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
   [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
-- [svmkit](https://github.com/yoshoku/SVMKit) -
+- [rumale](https://github.com/yoshoku/rumale) -
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to Scikit-Learn in Python.
