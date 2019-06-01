@@ -25,7 +25,6 @@ utilizing the [Ruby][ruby] programming language.
 A lot of useful resources on this list come from the development by
 [The Ruby Science Foundation][sciruby], our [contributors][contributors] and
 our own day to day work on various ML applications.
-Read [why](#wait-but-why) this list is awesome.
 
 :sparkles: Every [contribution](contributing.md) is welcome! Add links through pull
 requests or create an issue to start a discussion.
@@ -57,9 +56,7 @@ the word using the `#RubyML` hash tag!
 - [Heroku buildpacks](#heroku-buildpacks)
 - [Books, Blogs, Channels](#books-blogs-channels)
 - [Community](#community)
-- [Needs your Help!](#needs-your-help)
 - [Related Resources](#related-resources)
-- [Wait but why?](#wait-but-why)
 - [License](#license)
 
 <!-- tocstop -->
@@ -366,37 +363,24 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
 - [NonWebRuby](https://twitter.com/NonWebRuby)
 
-## Needs your Help!
-
-All projects in this section are really important for the community but need
-more attention. Please if you have spare time and dedication spend some hours
-on the code here.
-
 ## Related Resources
 
 - <a name="gls"></a>
-  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
-```brew install gsl```
+  [GSL (GNU Scientific Library)][gls]
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
-```brew tap homebrew/science && brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)
-```brew install graphviz```
 - <a name="gnuplot"></a>
   [Gnuplot](http://www.gnuplot.info/)
-```brew install gnuplot --with-x11```
 - <a name="xquartz"></a>
   [X11/XQuartz](https://www.xquartz.org/)
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
-```brew install imagemagick && brew install libjpeg```
+  [ImageMagick](https://www.imagemagick.org/script/index.php)
 - <a name="r"></a>
   [R](http://www.r-project.org/)
-```brew tap homebrew/science && brew install r```
 - <a name="octave"></a>
   [Octave](https://www.gnu.org/software/octave/)
-```brew tap homebrew/science && brew install octave --without-docs```
 - [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
@@ -417,18 +401,6 @@ on the code here.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
-
-## Wait but why?
-
-There are a lot of software lists with ML related tools. There are a couple of lists
-with Ruby related projects. There are no lists of only working and tested
-software with documented scope. We'll try to make one!
-
-What is awesome? Awesome are documented, maintained and focused tools.
-
-Can something turn not awesome at a point? Yes! Abandoned projects with broken
-dependencies aren't awesome any more! They leave this list.
-
 
 ## License
 
