@@ -151,6 +151,8 @@ programming languages with appropriate bindings for Ruby.
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Deep learning framework for Ruby.
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+
 
 ### Kernel methods
 
