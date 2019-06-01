@@ -19,7 +19,6 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?ie=UTF8&qid=1493746433&sr=8-1&keywords=collective+intelligence
 - https://github.com/alexandru/stuff-classifier
 - http://scikit-learn.org/stable/index.html
-- http://scikit-learn.org/stable/index.html
 - https://www.youtube.com/watch?v=cO26TjhQWvA
 - https://www.slideshare.net/igrigorik/intelligent-ruby-machine-learning
 - https://github.com/aws/aws-sdk-ruby
@@ -42,4 +41,3 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5
 - https://github.com/cardmagic/classifier
 - https://github.com/dansbits/lurn
-- https://github.com/ankane/eps

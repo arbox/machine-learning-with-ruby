@@ -125,6 +125,8 @@ programming languages with appropriate bindings for Ruby.
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to Scikit-Learn in Python.
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+  using [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
 
@@ -281,7 +283,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[video](https://www.youtube.com/watch?v=pYC5mXHUWkc)]</sup>
 - 2015
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
-    <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
+    <sup>[[post](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
@@ -302,7 +304,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
-    <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
+    <sup>[[tutorial](https://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
   - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
@@ -451,3 +453,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [cs]: https://en.wikipedia.org/wiki/Computational_science
 [fe]: https://en.wikipedia.org/wiki/Feature_engineering
 [ts]: https://en.wikipedia.org/wiki/Test_set
+[gsl]: https://www.gnu.org/software/gsl/
