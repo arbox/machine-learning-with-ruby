@@ -124,7 +124,7 @@ programming languages with appropriate bindings for Ruby.
 - [rumale](https://github.com/yoshoku/rumale) -
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
-  interfaces similar to Scikit-Learn in Python.
+  interfaces similar to [Scikit-Learn][scikit] in Python.
 - [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
   using [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
@@ -456,3 +456,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [fe]: https://en.wikipedia.org/wiki/Feature_engineering
 [ts]: https://en.wikipedia.org/wiki/Test_set
 [gsl]: https://www.gnu.org/software/gsl/
+[scikit]: https://scikit-learn.org/stable/index.html
