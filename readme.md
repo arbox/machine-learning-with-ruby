@@ -1,14 +1,14 @@
 <img src="header.png" align="center">
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
-# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning with Ruby [<img src="ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
-[<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
-
-> A Curated List of Ruby Machine Learning Links and Resources
+> Curated List of Ruby Machine Learning Links and Resources
 
 [Machine Learning][ml] is a field of [Computational Science][cs] -
 often nested under [AI][ai] research - with many practical
@@ -25,7 +25,6 @@ utilizing the [Ruby][ruby] programming language.
 A lot of useful resources on this list come from the development by
 [The Ruby Science Foundation][sciruby], our [contributors][contributors] and
 our own day to day work on various ML applications.
-Read [why](#wait-but-why) this list is awesome.
 
 :sparkles: Every [contribution](contributing.md) is welcome! Add links through pull
 requests or create an issue to start a discussion.
@@ -57,9 +56,7 @@ the word using the `#RubyML` hash tag!
 - [Heroku buildpacks](#heroku-buildpacks)
 - [Books, Blogs, Channels](#books-blogs-channels)
 - [Community](#community)
-- [Needs your Help!](#needs-your-help)
 - [Related Resources](#related-resources)
-- [Wait but why?](#wait-but-why)
 - [License](#license)
 
 <!-- tocstop -->
@@ -107,8 +104,7 @@ programming languages with appropriate bindings for Ruby.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
 - [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
-  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
-  and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
+  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
@@ -122,6 +118,12 @@ programming languages with appropriate bindings for Ruby.
   Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
   towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
   [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
+- [rumale](https://github.com/yoshoku/rumale) -
+  Machine Learninig toolkit in Ruby with wide range of implemented algorithms
+  (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
+  interfaces similar to [Scikit-Learn][scikit] in Python.
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+  using [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
 
@@ -142,6 +144,12 @@ programming languages with appropriate bindings for Ruby.
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
+- [tensor_stream](https://github.com/jedld/tensor_stream) -
+  Ground-up and standalone reimplementation of TensorFlow for Ruby.
+- [red-chainer](https://github.com/red-data-tools/red-chainer) -
+  Deep learning framework for Ruby.
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+
 
 ### Kernel methods
 
@@ -229,11 +237,18 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2019
+  - _TensorStream: Bringing Machine Learning to Ruby_ by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
+    <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
+  - _Easy machine learning with Ruby using SVMKit_ by [@kojix](https://twitter.com/kojix2dayo)
+    <sup>[[post](https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86)]</sup>
 - 2018
   - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
     &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
-          [page](http://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
+          [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
+  - _How to use trained Keras and TensorFlow machine learning models within Ruby on Rails_ by [Denis Sellu](https://twitter.com/denis_sellu)
+    <sup>[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
     <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
@@ -267,7 +282,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     <sup>[[video](https://www.youtube.com/watch?v=pYC5mXHUWkc)]</sup>
 - 2015
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
-    <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
+    <sup>[[post](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
@@ -284,9 +299,11 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
           [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   - _Recommender Systems with Ruby_ by [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
+  - _Detecting Faces with Ruby: FFI in a Nutshell_ by [Marc Berszick]()
+    <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
-    <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
+    <sup>[[tutorial](https://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
   - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
@@ -346,38 +363,25 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
 - [NonWebRuby](https://twitter.com/NonWebRuby)
 
-## Needs your Help!
-
-All projects in this section are really important for the community but need
-more attention. Please if you have spare time and dedication spend some hours
-on the code here.
-
 ## Related Resources
 
 - <a name="gls"></a>
-  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
-```brew install gsl```
+  [GSL (GNU Scientific Library)][gls]
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
-```brew tap homebrew/science && brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)
-```brew install graphviz```
 - <a name="gnuplot"></a>
   [Gnuplot](http://www.gnuplot.info/)
-```brew install gnuplot --with-x11```
 - <a name="xquartz"></a>
   [X11/XQuartz](https://www.xquartz.org/)
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
-```brew install imagemagick && brew install libjpeg```
+  [ImageMagick](https://www.imagemagick.org/script/index.php)
 - <a name="r"></a>
   [R](http://www.r-project.org/)
-```brew tap homebrew/science && brew install r```
 - <a name="octave"></a>
   [Octave](https://www.gnu.org/software/octave/)
-```brew tap homebrew/science && brew install octave --without-docs```
-- [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
@@ -397,18 +401,6 @@ on the code here.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
-
-## Wait but why?
-
-There are a lot of software lists with ML related tools. There are a couple of lists
-with Ruby related projects. There are no lists of only working and tested
-software with documented scope. We'll try to make one!
-
-What is awesome? Awesome are documented, maintained and focused tools.
-
-Can something turn not awesome at a point? Yes! Abandoned projects with broken
-dependencies aren't awesome any more! They leave this list.
-
 
 ## License
 
@@ -435,3 +427,5 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [cs]: https://en.wikipedia.org/wiki/Computational_science
 [fe]: https://en.wikipedia.org/wiki/Feature_engineering
 [ts]: https://en.wikipedia.org/wiki/Test_set
+[gsl]: https://www.gnu.org/software/gsl/
+[scikit]: https://scikit-learn.org/stable/index.html

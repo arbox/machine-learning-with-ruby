@@ -8,7 +8,6 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 
 - [Machine Learning: Current Status and Future](https://www.youtube.com/watch?v=gfQ8XEy7vO4)
 - http://www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/
-- [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for Tensorflow.
 - http://leopard.in.ua/presentations/ml_ruby_2017/
 - https://medium.com/@ryanflach/basic-machine-learning-in-ruby-9cce4a67b40b
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
@@ -18,8 +17,6 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - http://www.csie.ntu.edu.tw/~cjlin/libsvm/
 - https://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?ie=UTF8&qid=1493746433&sr=8-1&keywords=collective+intelligence
 - https://github.com/alexandru/stuff-classifier
-- http://scikit-learn.org/stable/index.html
-- http://scikit-learn.org/stable/index.html
 - https://www.youtube.com/watch?v=cO26TjhQWvA
 - https://www.slideshare.net/igrigorik/intelligent-ruby-machine-learning
 - https://github.com/aws/aws-sdk-ruby
@@ -41,5 +38,4 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/IBM-ATAT/ibm-ml-ruby
 - https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5
 - https://github.com/cardmagic/classifier
-- https://github.com/jedld/tensor_stream
 - [fast_forward](https://github.com/sds-dubois/fast_forward) - Fast predictions with neural networks in Ruby
