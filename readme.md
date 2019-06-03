@@ -123,7 +123,7 @@ programming languages with appropriate bindings for Ruby.
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to [Scikit-Learn][scikit] in Python.
 - [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
-  using [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
+  using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
 
