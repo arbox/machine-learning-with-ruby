@@ -221,6 +221,7 @@ programming languages with appropriate bindings for Ruby.
 
 - [xgboost](https://github.com/PairOnAir/xgboost-ruby) - Ruby bindings for XGBoost
 - [xgb](https://github.com/ankane/xgb) - Ruby bindings for XGBoost
+- [lightgbm](https://github.com/ankane/lightgbm) - Ruby bindings for LightGBM
 
 ## Applications of machine learning
 
