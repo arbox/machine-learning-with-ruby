@@ -220,6 +220,7 @@ programming languages with appropriate bindings for Ruby.
 ### Gradient boosting
 
 - [xgboost](https://github.com/PairOnAir/xgboost-ruby) - Ruby bindings for XGBoost
+- [xgb](https://github.com/ankane/xgb) - Ruby bindings for XGBoost
 
 ## Applications of machine learning
 
