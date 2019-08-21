@@ -48,6 +48,7 @@ the word using the `#RubyML` hash tag!
   * [Clustering](#clustering)
   * [Linear classifiers](#linear-classifiers)
   * [Statistical models](#statistical-models)
+  * [Gradient boosting](#gradient-boosting)
 - [Applications of machine learning](#applications-of-machine-learning)
 - [Data structures](#data-structures)
 - [Data visualization](#data-visualization)
@@ -219,9 +220,15 @@ programming languages with appropriate bindings for Ruby.
 
 ### Gradient boosting
 
-- [xgboost](https://github.com/PairOnAir/xgboost-ruby) - Ruby bindings for XGBoost
-- [xgb](https://github.com/ankane/xgb) - Ruby bindings for XGBoost
-- [lightgbm](https://github.com/ankane/lightgbm) - Ruby bindings for LightGBM
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) &mdash;
+  Ruby bindings for XGBoost.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [xgb](https://github.com/ankane/xgb) &mdash;
+  Ruby bindings for XGBoost.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [lightgbm](https://github.com/ankane/lightgbm) &mdash;
+  Ruby bindings for LightGBM.
+  <sup>[[dep: LightGBM](#lightgbm)]</sup>
 
 ## Applications of machine learning
 
@@ -371,6 +378,10 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Related Resources
 
+- <a name="lightgbm"></a>
+  [LightGBM](https://github.com/microsoft/LightGBM)
+- <a name="xgboost"></a>
+  [XGBoost](https://github.com/dmlc/xgboost)
 - <a name="gls"></a>
   [GSL (GNU Scientific Library)][gls]
 - <a name="opencv"></a>
