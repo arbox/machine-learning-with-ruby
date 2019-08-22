@@ -145,12 +145,15 @@ programming languages with appropriate bindings for Ruby.
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
+
+### Deep learning
+
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Deep learning framework for Ruby.
 - [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
-
+- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
 ### Kernel methods
 
