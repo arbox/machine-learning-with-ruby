@@ -40,3 +40,16 @@ Please add a link to the bottom of this file. Try to do that in the following fo
 - https://github.com/cardmagic/classifier
 - [fast_forward](https://github.com/sds-dubois/fast_forward) - Fast predictions with neural networks in Ruby
 - https://github.com/ankane/tensorflow
+- https://github.com/ankane/libmf
+- https://github.com/ankane/ngt
+- https://github.com/ankane/xlearn
+- https://github.com/ankane/scs
+- https://github.com/ankane/osqp
+- https://github.com/ankane/fasttext
+- https://github.com/ankane/npy
+- https://github.com/ankane/onnxruntime
+- https://github.com/ankane/vowpalwabbit
+- https://github.com/ankane/thundersvm
+- https://github.com/ankane/gslr
+- https://github.com/ankane/disco
+- https://github.com/ankane/libmf
