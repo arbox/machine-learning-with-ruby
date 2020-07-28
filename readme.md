@@ -150,11 +150,10 @@ programming languages with appropriate bindings for Ruby.
 
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
-- [red-chainer](https://github.com/red-data-tools/red-chainer) -
-  Deep learning framework for Ruby.
+- [red-chainer](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 - [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 - [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
-- [torch-rb](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch).
+- [torch-rb](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch)
   using [rice](https://github.com/jasonroelofs/rice).
 - [mxnet](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
