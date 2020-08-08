@@ -200,6 +200,8 @@ programming languages with appropriate bindings for Ruby.
   Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
+- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
+  bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 
 ### Linear classifiers
 
