@@ -414,7 +414,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
