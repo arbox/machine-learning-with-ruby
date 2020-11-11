@@ -41,6 +41,7 @@ the word using the `#RubyML` hash tag!
 - [Machine Learning Libraries](#machine-learning-libraries)
   * [Frameworks](#frameworks)
   * [Neural networks](#neural-networks)
+  * [Deep Learning](#deep-learning)
   * [Kernel methods](#kernel-methods)
   * [Evolutionary algorithms](#evolutionary-algorithms)
   * [Bayesian methods](#bayesian-methods)
