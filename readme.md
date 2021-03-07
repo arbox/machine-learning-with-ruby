@@ -358,6 +358,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   Wine quality estimations clustered with different algorithms.
 - [simple_ga](https://github.com/giuse/simple_ga) -
   Basic (working) demo of Genetic Algorithms in Ruby.
+- [Handwritten Digits Recognition](https://github.com/jdrzj/handwritten-digits-recognition) -
+  Handwritten digits recognition using Neural Networks and Ruby.
 
 ## Heroku buildpacks
 
