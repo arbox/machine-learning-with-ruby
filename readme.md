@@ -256,6 +256,8 @@ in our [Data Science with Ruby][ds-with-ruby] list.
 Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
 
+[Kandi](https://kandi.openweaver.com/collections/ruby/ruby-data-visualization) - 17 best Ruby Data Visualization libraries in 2022
+
 ## Articles, Posts, Talks, and Presentations
 
 - 2019
