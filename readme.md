@@ -50,6 +50,7 @@ the word using the `#RubyML` hash tag!
   * [Linear classifiers](#linear-classifiers)
   * [Statistical models](#statistical-models)
   * [Gradient boosting](#gradient-boosting)
+  * [Vector search](#vector-search)
 - [Applications of machine learning](#applications-of-machine-learning)
 - [Data structures](#data-structures)
 - [Data visualization](#data-visualization)
@@ -237,6 +238,14 @@ programming languages with appropriate bindings for Ruby.
 - [lightgbm](https://github.com/ankane/lightgbm) &mdash;
   Ruby bindings for LightGBM.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
+  
+### Vector search
+- [pinecone](https://github.com/ScotterC/pinecone) &mdash;
+  Ruby client for Pinecone Vector DB.
+- [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) &mdash;
+  Ruby wrapper for the Qdrant vector search database API.
+- [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) &mdash;
+  Ruby wrapper for the Weaviate vector search database API.
 
 ## Applications of machine learning
 
