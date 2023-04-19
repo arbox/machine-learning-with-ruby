@@ -240,14 +240,12 @@ programming languages with appropriate bindings for Ruby.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
   
 ### Vector search
-- [pgvector](https://github.com/pgvector/pgvector) &mdash;
-  Open-source vector similarity search for Postgres
 - [pinecone](https://github.com/ScotterC/pinecone) &mdash;
-  Ruby client for Pinecone Vector DB
+  Ruby client for Pinecone Vector DB.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) &mdash;
-  Ruby wrapper for the Qdrant vector search database API
+  Ruby wrapper for the Qdrant vector search database API.
 - [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) &mdash;
-  Ruby wrapper for the Weaviate vector search database API
+  Ruby wrapper for the Weaviate vector search database API.
 
 ## Applications of machine learning
 
