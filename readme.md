@@ -240,6 +240,8 @@ programming languages with appropriate bindings for Ruby.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
   
 ### Vector search
+- [milvus](https://github.com/andreibondarev/milvus) &mdash;
+  Ruby client for Milvus Vector DB.
 - [pinecone](https://github.com/ScotterC/pinecone) &mdash;
   Ruby client for Pinecone Vector DB.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) &mdash;
