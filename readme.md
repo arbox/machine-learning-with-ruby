@@ -94,6 +94,8 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
+- [LangChain.rb](https://github.com/andreibondarev/langchainrb) -
+  Build ML/AI-supercharged applications with Ruby's LangChain.
 - [weka](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
