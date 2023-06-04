@@ -195,17 +195,12 @@ programming languages with appropriate bindings for Ruby.
 
 ### Clustering
 
-- [flann](https://github.com/mariusmuja/flann) -
-  Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
   Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
-- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
-  bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 
 ### Linear classifiers
 
@@ -240,8 +235,14 @@ programming languages with appropriate bindings for Ruby.
 - [lightgbm](https://github.com/ankane/lightgbm) &mdash;
   Ruby bindings for LightGBM.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
-  
+
 ### Vector search
+
+- [flann](https://github.com/mariusmuja/flann) -
+  Fast Library for Approximate Nearest Neighbors.
+  <sup>[[flann](#flann)]</sup>
+- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
+  bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 - [milvus](https://github.com/andreibondarev/milvus) &mdash;
   Ruby client for Milvus Vector DB.
 - [pinecone](https://github.com/ScotterC/pinecone) &mdash;
