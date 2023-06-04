@@ -239,10 +239,14 @@ programming languages with appropriate bindings for Ruby.
 ### Vector search
 
 - [flann](https://github.com/mariusmuja/flann) -
-  Fast Library for Approximate Nearest Neighbors.
+  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors).
   <sup>[[flann](#flann)]</sup>
 - [annoy-rb](https://github.com/yoshoku/annoy.rb) -
-  bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+  Ruby bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+- [hnswlib.rb](https://github.com/yoshoku/hnswlib.rb) -
+  Ruby bindings for the [Hnswlib](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+- [ngt-ruby](https://github.com/ankane/ngt-ruby) -
+  Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 - [milvus](https://github.com/andreibondarev/milvus) &mdash;
   Ruby client for Milvus Vector DB.
 - [pinecone](https://github.com/ScotterC/pinecone) &mdash;
