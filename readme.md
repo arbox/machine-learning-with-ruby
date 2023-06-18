@@ -276,6 +276,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2022
+  - _Discover Machine Learning in Ruby_ by [Justin Bowen](https://twitter.com/TonsOfFun111)
+   <sup>[[video](https://www.youtube.com/watch?v=HPbizNgcyFk)]</sup>
 - 2019
   - _TensorStream: Bringing Machine Learning to Ruby_ by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
     <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
