@@ -129,6 +129,7 @@ programming languages with appropriate bindings for Ruby.
   interfaces similar to [Scikit-Learn][scikit] in Python.
 - [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
 
 ### Neural networks
 
@@ -406,6 +407,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Stack Overflow](https://stackoverflow.com/search?q=machine+learning+ruby)
 - [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
 - [NonWebRuby](https://twitter.com/NonWebRuby)
+- [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
 
 ## Related Resources
 
