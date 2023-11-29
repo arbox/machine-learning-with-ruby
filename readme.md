@@ -408,6 +408,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
 - [NonWebRuby](https://twitter.com/NonWebRuby)
 - [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
+- [X Ruby AI group](https://twitter.com/i/communities/1709211359039078677)
+- [Mastodon Ruby AI and Data group](https://ruby.social/@Ruby_AI_and_Data@chirp.social)
 
 ## Related Resources
 
