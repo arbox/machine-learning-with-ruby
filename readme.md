@@ -453,6 +453,8 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
+- [Explore Ruby](https://kandi.openweaver.com/explore/ruby) -
+  Curated list of Popular libraries, top authors, project kits, trending discussions and tutorial/ learning resources on Ruby.
 
 ## License
 
