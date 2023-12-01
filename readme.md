@@ -161,6 +161,7 @@ programming languages with appropriate bindings for Ruby.
 - [torch-rb](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch)
   using [rice](https://github.com/jasonroelofs/rice).
 - [mxnet](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
+- [Ruby-LSTM](https://github.com/arjunmenon/Ruby-LSTM) - Long Short Term Memory RNN in pure Ruby
 
 ### Kernel methods
 
