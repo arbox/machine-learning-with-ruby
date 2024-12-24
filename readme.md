@@ -130,7 +130,8 @@ programming languages with appropriate bindings for Ruby.
 - [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
-
+- [Instruct](https://github.com/instruct-rb/instruct) - Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.
+  
 ### Neural networks
 
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
